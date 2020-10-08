@@ -2,7 +2,7 @@
 
 	"そのほかのライブラリのライセンス条項は端末の設定に移動しました。": {
 		"ja": "そのほかのライブラリのライセンス条項は端末の設定に移動しました。",
-		"en": "The other library license terms have been moved to the device settings.",
+		"en": "The other library license terms have been moved to device settings.",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -18,7 +18,7 @@
 
 	"交通系ICカードの駅名表示のほとんどは IC SFCard Fan にて公開されている情報を利用しています。作成に関わったすべての皆様に感謝いたします。本 App と IC SFCard Fan 作成・管理者様は一切関係ありません。": {
 		"ja": "交通系ICカードの駅名表示のほとんどは IC SFCard Fan にて公開されている情報を利用しています。作成に関わったすべての皆様に感謝いたします。本 App と IC SFCard Fan 作成・管理者様は一切関係ありません。",
-		"en": "Most of the station infomations on Transit IC cards are based that available on IC SFCard Fan. We appreciate all the people involved in the creation of this app and IC SFCard Fan. This app has nothing to do with the IC SFCard Fan creator/administrator.",
+		"en": "Most of the station names read from the Transit IC cards are based on information available from IC SFCard Fan. I'd like to thank everyone involved in this effort. This app is in no way affiliated with IC SFCard Fan.",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -26,7 +26,7 @@
 
 	"本 App のコア部分は GitHub にて公開しています。": {
 		"ja": "本 App のコア部分は GitHub にて公開しています。",
-		"en": "The core part of this app is open to the public on GitHub.",
+		"en": "The core library of this app is available to the public on GitHub.",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null

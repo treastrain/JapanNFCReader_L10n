@@ -2,7 +2,7 @@
 
 	"iCloud を有効にすると、カードの読み取りに対応した他の端末での履歴が同期されます。": {
 		"ja": "iCloud を有効にすると、カードの読み取りに対応した他の端末での履歴が同期されます。",
-		"en": "If iCloud is enabled, data on other devices that support NFC card reading is synchronized.",
+		"en": "If iCloud is enabled, data from your other devices will be sync'd to this device, and vice-versa.",
 		"zh-Hans": "若已开启 iCloud，其他支持读取 NFC 卡的装置上的历史数据会自动同步。",
 		"zh-Hant": "若已開啟 iCloud，其他支持讀取 NFC 卡的裝置上的歷史數據會自動同步。",
 		"zh-HK": "若已開啟 iCloud，其他支援讀取 NFC 卡的裝置上的歷史數據會自動同步。"
@@ -18,7 +18,7 @@
 
 	"イメージを設定しない": {
 		"ja": "イメージを設定しない",
-		"en": "No image",
+		"en": "No Image",
 		"zh-Hans": "沒有图像",
 		"zh-Hant": "沒有圖像",
 		"zh-HK": "沒有圖像"
@@ -42,7 +42,7 @@
 
 	"カードのイメージを選択": {
 		"ja": "カードのイメージを選択",
-		"en": "Select card image",
+		"en": "Select Card Image",
 		"zh-Hans": "选择卡片图像",
 		"zh-Hant": "選擇卡片圖像",
 		"zh-HK": "選擇卡片圖像"
@@ -50,7 +50,7 @@
 
 	"カードの色を選択": {
 		"ja": "カードの色を選択",
-		"en": "Select card color",
+		"en": "Select Card Color",
 		"zh-Hans": "选择卡片颜色",
 		"zh-Hant": "選擇卡片顏色",
 		"zh-HK": "選擇卡片顏色"
@@ -66,7 +66,7 @@
 
 	"カード情報を編集": {
 		"ja": "カード情報を編集",
-		"en": "Edit card information",
+		"en": "Edit Card Information",
 		"zh-Hans": "编辑卡片资讯",
 		"zh-Hant": "編輯卡片資訊",
 		"zh-HK": "編輯卡片資訊"
@@ -106,7 +106,7 @@
 
 	"このカード情報はアプリ内での表示等に使用されるもので、スキャンの際にカードに書き込まれることはありません。": {
 		"ja": "このカード情報はアプリ内での表示等に使用されるもので、スキャンの際にカードに書き込まれることはありません。",
-		"en": "This card information is used for display within the app and is not written to the card when scanning.",
+		"en": "This card's information is used only for display within the app, and is not written to the card when scanning.",
 		"zh-Hans": "这里的卡片资料只会用于应用内显示，不会于扫描时写进卡片。",
 		"zh-Hant": "這裏的卡片資料只會用於在程式內顯示，不會於掃描時寫進卡片。",
 		"zh-HK": "這裏的卡片資料只會於在程式內顯示，不會於掃描時寫入卡片。"
@@ -114,7 +114,7 @@
 
 	"スタイルを変更": {
 		"ja": "スタイルを変更",
-		"en": "Change the style",
+		"en": "Change the Style",
 		"zh-Hans": "更改风格",
 		"zh-Hant": "更改風格",
 		"zh-HK": "更改風格"

@@ -58,7 +58,7 @@
 
 	"IruCa（IruCa定期券）": {
 		"ja": "IruCa（IruCa定期券）",
-		"en": "IruCa（IruCa定期券）",
+		"en": "IruCa (Commuter Pass)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -66,7 +66,7 @@
 
 	"IruCa（キッズIruCa）": {
 		"ja": "IruCa（キッズIruCa）",
-		"en": "IruCa（キッズIruCa）",
+		"en": "IruCa (Kids)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -74,7 +74,7 @@
 
 	"IruCa（グリーンIruCa）": {
 		"ja": "IruCa（グリーンIruCa）",
-		"en": "IruCa（グリーンIruCa）",
+		"en": "IruCa (Green)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -82,7 +82,7 @@
 
 	"IruCa（ゴールドIruCa）": {
 		"ja": "IruCa（ゴールドIruCa）",
-		"en": "IruCa（ゴールドIruCa）",
+		"en": "IruCa (Gold)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -90,7 +90,7 @@
 
 	"IruCa（シニアIruCa）": {
 		"ja": "IruCa（シニアIruCa）",
-		"en": "IruCa（シニアIruCa）",
+		"en": "IruCa (Senior)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -98,7 +98,7 @@
 
 	"IruCa（スクールIruCa）": {
 		"ja": "IruCa（スクールIruCa）",
-		"en": "IruCa（スクールIruCa）",
+		"en": "IruCa (School)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -106,7 +106,7 @@
 
 	"IruCa（フリーIruCa）": {
 		"ja": "IruCa（フリーIruCa）",
-		"en": "IruCa（フリーIruCa）",
+		"en": "IruCa (Free/Unregistered)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -186,7 +186,7 @@
 
 	"PASPY（アストラムライン）": {
 		"ja": "PASPY（アストラムライン）",
-		"en": "PASPY（アストラムライン）",
+		"en": "PASPY (Astram Line)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -194,7 +194,7 @@
 
 	"PASPY（トモテツバス）": {
 		"ja": "PASPY（トモテツバス）",
-		"en": "PASPY（トモテツバス）",
+		"en": "PASPY (Tomotetsu Bus)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -202,7 +202,7 @@
 
 	"PASPY（芸陽バス）": {
 		"ja": "PASPY（芸陽バス）",
-		"en": "PASPY（芸陽バス）",
+		"en": "PASPY (Geiyō Bus)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -210,7 +210,7 @@
 
 	"PASPY（呉市交通局）": {
 		"ja": "PASPY（呉市交通局）",
-		"en": "PASPY（呉市交通局）",
+		"en": "PASPY (Kure City Transportation Bureau)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -218,7 +218,7 @@
 
 	"PASPY（広島バス）": {
 		"ja": "PASPY（広島バス）",
-		"en": "PASPY（広島バス）",
+		"en": "PASPY (Hiroshima Bus)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -226,7 +226,7 @@
 
 	"PASPY（広島交通）": {
 		"ja": "PASPY（広島交通）",
-		"en": "PASPY（広島交通）",
+		"en": "PASPY (Hiroshima Kōtsū)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -234,7 +234,7 @@
 
 	"PASPY（広島電鉄）": {
 		"ja": "PASPY（広島電鉄）",
-		"en": "PASPY（広島電鉄）",
+		"en": "PASPY (Hiroshima Electric Railway)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -242,7 +242,7 @@
 
 	"PASPY（中国JRバス）": {
 		"ja": "PASPY（中国JRバス）",
-		"en": "PASPY（中国JRバス）",
+		"en": "PASPY (Chūgoku JR Bus)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -250,7 +250,7 @@
 
 	"PASPY（中国バス）": {
 		"ja": "PASPY（中国バス）",
-		"en": "PASPY（中国バス）",
+		"en": "PASPY (Chūgoku JR Bus)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -258,7 +258,7 @@
 
 	"PASPY（備北交通）": {
 		"ja": "PASPY（備北交通）",
-		"en": "PASPY（備北交通）",
+		"en": "PASPY (Bihoku Kōtsū)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -354,7 +354,7 @@
 
 	"くまモンのIC CARD": {
 		"ja": "くまモンのIC CARD",
-		"en": null,
+		"en": "Kumamon IC Card",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -362,7 +362,7 @@
 
 	"でんでんnimoca": {
 		"ja": "でんでんnimoca",
-		"en": null,
+		"en": "Denden Nimoca",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -378,7 +378,7 @@
 
 	"めじろんnimoca": {
 		"ja": "めじろんnimoca",
-		"en": "めじろんnimoca",
+		"en": "Mejiron nimoca",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
