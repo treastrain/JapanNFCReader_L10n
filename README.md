@@ -3,6 +3,14 @@
 iOS・watchOS App [Japan NFC Reader - カードリーダー](https://japannfcreader.tret.jp) のローカライズのために使用する [`Localizable.strings`](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/LoadingResources/Strings/Strings.html) の基となるレポジトリです。
 
 
+## 現在作業中のブランチ
+- [v2.0-develop](https://github.com/treastrain/JapanNFCReader_L10n/tree/v2.0-develop)
+
+
+## ファイル形式
+Strings のローカライズには `.jsonc` ファイルを使用します。
+
+
 ## 対応ローカライゼーション : `knownRegions`
 - Japanese : `ja`
 - English : `en`
