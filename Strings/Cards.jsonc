@@ -2,7 +2,7 @@
 
 	"iCloud を有効にすると、カードの読み取りに対応した他の端末での履歴が同期されます。": {
 		"ja": "iCloud を有効にすると、カードの読み取りに対応した他の端末での履歴が同期されます。",
-		"en": "If iCloud is enabled, data from your other devices will be sync'd to this device, and vice-versa.",
+		"en": "If iCloud is enabled, data from your other devices will be synched to this device, and vice-versa.",
 		"zh-Hans": "若已开启 iCloud，其他支持读取 NFC 卡的装置上的历史数据会自动同步。",
 		"zh-Hant": "若已開啟 iCloud，其他支持讀取 NFC 卡的裝置上的歷史數據會自動同步。",
 		"zh-HK": "若已開啟 iCloud，其他支援讀取 NFC 卡的裝置上的歷史數據會自動同步。"
