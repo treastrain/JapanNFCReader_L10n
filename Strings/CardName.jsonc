@@ -1,0 +1,443 @@
+{
+
+	"ecomyca": {
+		"ja": "ecomyca",
+		"en": "ecomyca",
+		"zh-Hans": "ecomyca",
+		"zh-Hant": "ecomyca",
+		"zh-HK": "ecomyca"
+	},
+
+	"FCF Campus": {
+		"ja": "FCF Campus",
+		"en": "FCF Campus",
+		"zh-Hans": "FCF Campus",
+		"zh-Hant": "FCF Campus",
+		"zh-HK": "FCF Campus"
+	},
+
+	"ICAS nimoca": {
+		"ja": "ICAS nimoca",
+		"en": "ICAS nimoca",
+		"zh-Hans": "ICAS nimoca",
+		"zh-Hant": "ICAS nimoca",
+		"zh-HK": "ICAS nimoca"
+	},
+
+	"ICOCA": {
+		"ja": "ICOCA",
+		"en": "ICOCA",
+		"zh-Hans": "ICOCA",
+		"zh-Hant": "ICOCA",
+		"zh-HK": "ICOCA"
+	},
+
+	"icsca": {
+		"ja": "icsca",
+		"en": "icsca",
+		"zh-Hans": "icsca",
+		"zh-Hant": "icsca",
+		"zh-HK": "icsca"
+	},
+
+	"iD": {
+		"ja": "iD",
+		"en": "iD",
+		"zh-Hans": "iD",
+		"zh-Hant": "iD",
+		"zh-HK": "iD"
+	},
+
+	"IruCa": {
+		"ja": "IruCa",
+		"en": "IruCa",
+		"zh-Hans": "IruCa",
+		"zh-Hant": "IruCa",
+		"zh-HK": "IruCa"
+	},
+
+	"IruCa（IruCa定期券）": {
+		"ja": "IruCa（IruCa定期券）",
+		"en": "IruCa（IruCa定期券）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"IruCa（キッズIruCa）": {
+		"ja": "IruCa（キッズIruCa）",
+		"en": "IruCa（キッズIruCa）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"IruCa（グリーンIruCa）": {
+		"ja": "IruCa（グリーンIruCa）",
+		"en": "IruCa（グリーンIruCa）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"IruCa（ゴールドIruCa）": {
+		"ja": "IruCa（ゴールドIruCa）",
+		"en": "IruCa（ゴールドIruCa）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"IruCa（シニアIruCa）": {
+		"ja": "IruCa（シニアIruCa）",
+		"en": "IruCa（シニアIruCa）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"IruCa（スクールIruCa）": {
+		"ja": "IruCa（スクールIruCa）",
+		"en": "IruCa（スクールIruCa）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"IruCa（フリーIruCa）": {
+		"ja": "IruCa（フリーIruCa）",
+		"en": "IruCa（フリーIruCa）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"Kitaca": {
+		"ja": "Kitaca",
+		"en": "Kitaca",
+		"zh-Hans": "Kitaca",
+		"zh-Hant": "Kitaca",
+		"zh-HK": "Kitaca"
+	},
+
+	"manaca": {
+		"ja": "manaca",
+		"en": "manaca",
+		"zh-Hans": "manaca",
+		"zh-Hant": "manaca",
+		"zh-HK": "manaca"
+	},
+
+	"mono SUGOCA": {
+		"ja": "mono SUGOCA",
+		"en": "mono SUGOCA",
+		"zh-Hans": "mono SUGOCA",
+		"zh-Hant": "mono SUGOCA",
+		"zh-HK": "mono SUGOCA"
+	},
+
+	"nanaco": {
+		"ja": "nanaco",
+		"en": "nanaco",
+		"zh-Hans": "nanaco",
+		"zh-Hant": "nanaco",
+		"zh-HK": "nanaco"
+	},
+
+	"nimoca": {
+		"ja": "nimoca",
+		"en": "nimoca",
+		"zh-Hans": "nimoca",
+		"zh-Hant": "nimoca",
+		"zh-HK": "nimoca"
+	},
+
+	"odeca": {
+		"ja": "odeca",
+		"en": "odeca",
+		"zh-Hans": "odeca",
+		"zh-Hant": "odeca",
+		"zh-HK": "odeca"
+	},
+
+	"OKICA": {
+		"ja": "OKICA",
+		"en": "OKICA",
+		"zh-Hans": "OKICA",
+		"zh-Hant": "OKICA",
+		"zh-HK": "OKICA"
+	},
+
+	"PASMO": {
+		"ja": "PASMO",
+		"en": "PASMO",
+		"zh-Hans": "PASMO",
+		"zh-Hant": "PASMO",
+		"zh-HK": "PASMO"
+	},
+
+	"PASPY": {
+		"ja": "PASPY",
+		"en": "PASPY",
+		"zh-Hans": "PASPY",
+		"zh-Hant": "PASPY",
+		"zh-HK": "PASPY"
+	},
+
+	"PASPY（アストラムライン）": {
+		"ja": "PASPY（アストラムライン）",
+		"en": "PASPY（アストラムライン）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"PASPY（トモテツバス）": {
+		"ja": "PASPY（トモテツバス）",
+		"en": "PASPY（トモテツバス）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"PASPY（芸陽バス）": {
+		"ja": "PASPY（芸陽バス）",
+		"en": "PASPY（芸陽バス）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"PASPY（呉市交通局）": {
+		"ja": "PASPY（呉市交通局）",
+		"en": "PASPY（呉市交通局）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"PASPY（広島バス）": {
+		"ja": "PASPY（広島バス）",
+		"en": "PASPY（広島バス）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"PASPY（広島交通）": {
+		"ja": "PASPY（広島交通）",
+		"en": "PASPY（広島交通）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"PASPY（広島電鉄）": {
+		"ja": "PASPY（広島電鉄）",
+		"en": "PASPY（広島電鉄）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"PASPY（中国JRバス）": {
+		"ja": "PASPY（中国JRバス）",
+		"en": "PASPY（中国JRバス）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"PASPY（中国バス）": {
+		"ja": "PASPY（中国バス）",
+		"en": "PASPY（中国バス）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"PASPY（備北交通）": {
+		"ja": "PASPY（備北交通）",
+		"en": "PASPY（備北交通）",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"PiTaPa": {
+		"ja": "PiTaPa",
+		"en": "PiTaPa",
+		"zh-Hans": "PiTaPa",
+		"zh-Hant": "PiTaPa",
+		"zh-HK": "PiTaPa"
+	},
+
+	"QUICPay": {
+		"ja": "QUICPay",
+		"en": "QUICPay",
+		"zh-Hans": "QUICPay",
+		"zh-Hant": "QUICPay",
+		"zh-HK": "QUICPay"
+	},
+
+	"SAPICA": {
+		"ja": "SAPICA",
+		"en": "SAPICA",
+		"zh-Hans": "SAPICA",
+		"zh-Hant": "SAPICA",
+		"zh-HK": "SAPICA"
+	},
+
+	"SUGOCA": {
+		"ja": "SUGOCA",
+		"en": "SUGOCA",
+		"zh-Hans": "SUGOCA",
+		"zh-Hant": "SUGOCA",
+		"zh-HK": "SUGOCA"
+	},
+
+	"Suica": {
+		"ja": "Suica",
+		"en": "Suica",
+		"zh-Hans": "Suica",
+		"zh-Hant": "Suica",
+		"zh-HK": "Suica"
+	},
+
+	"TOICA": {
+		"ja": "TOICA",
+		"en": "TOICA",
+		"zh-Hans": "TOICA",
+		"zh-Hant": "TOICA",
+		"zh-HK": "TOICA"
+	},
+
+	"WAON": {
+		"ja": "WAON",
+		"en": "WAON",
+		"zh-Hans": "WAON",
+		"zh-Hant": "WAON",
+		"zh-HK": "WAON"
+	},
+
+	"Welcome Suica": {
+		"ja": "Welcome Suica",
+		"en": "Welcome Suica",
+		"zh-Hans": "Welcome Suica",
+		"zh-Hant": "Welcome Suica",
+		"zh-HK": "Welcome Suica"
+	},
+
+	"オクトパス（シニア）": {
+		"ja": "オクトパス（シニア）",
+		"en": "Octopus (Elder)",
+		"zh-Hans": "八达通 (Elder)",
+		"zh-Hant": "八達通 (Elder)",
+		"zh-HK": "八達通 (Elder)"
+	},
+
+	"オクトパス（小人）": {
+		"ja": "オクトパス（小人）",
+		"en": "Octopus (Child)",
+		"zh-Hans": "八达通 (Child)",
+		"zh-Hant": "八達通 (Child)",
+		"zh-HK": "八達通 (Child)"
+	},
+
+	"オクトパス（成人）": {
+		"ja": "オクトパス（成人）",
+		"en": "Octopus (Adult)",
+		"zh-Hans": "八达通 (Adult)",
+		"zh-Hant": "八達通 (Adult)",
+		"zh-HK": "八達通 (Adult)"
+	},
+
+	"くまモンのIC CARD": {
+		"ja": "くまモンのIC CARD",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"でんでんnimoca": {
+		"ja": "でんでんnimoca",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"はやかけん": {
+		"ja": "はやかけん",
+		"en": "Hayakaken",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"めじろんnimoca": {
+		"ja": "めじろんnimoca",
+		"en": "めじろんnimoca",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"モノレールSuica": {
+		"ja": "モノレールSuica",
+		"en": "Monorail Suica",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"りゅーと": {
+		"ja": "りゅーと",
+		"en": "Ryuto",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"りんかいSuica": {
+		"ja": "りんかいSuica",
+		"en": "Rinkai Suica",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"楽天Edy": {
+		"ja": "楽天Edy",
+		"en": "Rakuten Edy",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"交通系IC": {
+		"ja": "交通系IC",
+		"en": "Transit IC",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"大学生協ICプリペイド": {
+		"ja": "大学生協ICプリペイド",
+		"en": "Univ. Coop IC Prepaid",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"地方交通系IC": {
+		"ja": "地方交通系IC",
+		"en": "Local Transit IC",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	}
+
+}

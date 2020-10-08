@@ -1,0 +1,83 @@
+{
+
+	"iPhone の背面カメラ付近に、カードの下半分を隠すように置いてください。この表示が切り替わるまで最大で1分かかる場合があります。": {
+		"ja": "iPhone の背面カメラ付近に、カードの下半分を隠すように置いてください。この表示が切り替わるまで最大で1分かかる場合があります。",
+		"en": "Rest your iPhone on the bottom half of the card, as shown above. This process may require up to one minute to complete.",
+		"zh-Hans": "如上图所示，把 iPhone 放在卡片的下半部分。整个过程需时大约2分钟完成。",
+		"zh-Hant": "如上圖所示，把 iPhone 放在卡片的下半部分。整個過程需時大約2分鐘完成。",
+		"zh-HK": "如上圖所示，將 iPhone 放在卡片的下半部分。整個過程需時大約2分鐘完成。"
+	},
+
+	"スキャンの後、広告が表示されます。": {
+		"ja": "スキャンの後、広告が表示されます。",
+		"en": "After the scan, the ad will be displayed.",
+		"zh-Hans": "扫瞄完毕后会显示广告。",
+		"zh-Hant": "掃瞄完畢後會顯示廣告。",
+		"zh-HK": "掃瞄完畢後會顯示廣告。"
+	},
+
+	"フルスキャン": {
+		"ja": "フルスキャン",
+		"en": "Full Scan",
+		"zh-Hans": "完整扫瞄",
+		"zh-Hant": "完整掃瞄",
+		"zh-HK": "完整掃瞄"
+	},
+
+	"フルスキャンには時間がかかる場合があります。iOS 側の制約により読み取り可能な FeliCa システムコードに制限があります。各 FeliCa サービスコードの最大読み取りブロック数は36です。": {
+		"ja": "フルスキャンには時間がかかる場合があります。iOS 側の制約により読み取り可能な FeliCa システムコードに制限があります。各 FeliCa サービスコードの最大読み取りブロック数は36です。",
+		"en": "Full scan may take some time. There are restrictions on the readable FeliCa system codes due to iOS limitations. The maximum number of read blocks for each FeliCa service code is 36.",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"フルスキャン結果": {
+		"ja": "フルスキャン結果",
+		"en": "Full Scan Result",
+		"zh-Hans": "完整扫瞄结果",
+		"zh-Hant": "完整掃瞄結果",
+		"zh-HK": "完整掃瞄結果"
+	},
+
+	"フルスキャン履歴": {
+		"ja": "フルスキャン履歴",
+		"en": "Full Scan History",
+		"zh-Hans": "完整扫瞄记录",
+		"zh-Hant": "完整掃瞄記錄",
+		"zh-HK": "完整掃瞄記錄"
+	},
+
+	"接続エラーです。もう一度やり直してください。": {
+		"ja": "接続エラーです。もう一度やり直してください。",
+		"en": "Connection error. Please try again.",
+		"zh-Hans": "连接错误。请重试。",
+		"zh-Hant": "連接錯誤。請重試。",
+		"zh-HK": "連接錯誤。請重試。"
+	},
+
+	"読み取り中…\\n カードを iPhone から離さないでください。": {
+		"ja": "読み取り中…\\n カードを iPhone から離さないでください。",
+		"en": "Reading…\\n Keep your iPhone resting on the card.",
+		"zh-Hans": "读取中…\\n 将 iPhone 放在卡片上保持不动。",
+		"zh-Hant": "讀取中…\\n 將 iPhone 放在卡片上保持不動。",
+		"zh-HK": "讀取中…\\n 將 iPhone 放在卡片上保持不動。"
+	},
+
+	"非対応のカードです。": {
+		"ja": "非対応のカードです。",
+		"en": "The card is not supported.",
+		"zh-Hans": "不支持此卡片。",
+		"zh-Hant": "不支持此卡。",
+		"zh-HK": "不支援此卡片。"
+	},
+
+	"複数のカードが検出されました。すべてのカードを取り除いてもう一度やり直してください。": {
+		"ja": "複数のカードが検出されました。すべてのカードを取り除いてもう一度やり直してください。",
+		"en": "More than 1 card is detected. Please remove all cards and try again.",
+		"zh-Hans": "检测到多于一张卡片。请移除所有卡然后重试。",
+		"zh-Hant": "偵測到多於一張卡片。請移除所有卡然後重試。",
+		"zh-HK": "偵測到多於一張卡片。請移除所有卡然後重試。"
+	}
+
+}

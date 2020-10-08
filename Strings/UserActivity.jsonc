@@ -1,0 +1,19 @@
+{
+
+	"カードをスキャン": {
+		"ja": "カードをスキャン",
+		"en": "Scan the card",
+		"zh-Hans": "扫瞄卡片",
+		"zh-Hant": "掃描卡片",
+		"zh-HK": "掃瞄卡片"
+	},
+
+	"スキャン開始": {
+		"ja": "スキャン開始",
+		"en": "Start scan",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	}
+
+}

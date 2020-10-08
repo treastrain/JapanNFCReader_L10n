@@ -1,0 +1,115 @@
+{
+
+	"オートチャージ": {
+		"ja": "オートチャージ",
+		"en": "Auto top-up",
+		"zh-Hans": "自动充值",
+		"zh-Hant": "自动加值",
+		"zh-HK": "自动增值"
+	},
+
+	"このデータのバージョン": {
+		"ja": "このデータのバージョン",
+		"en": "This data format version",
+		"zh-Hans": "此数据格式的版本",
+		"zh-Hant": "此數據格式的版本",
+		"zh-HK": "此數據格式的版本"
+	},
+
+	"この端末に保存されている利用履歴のデータが途切れている可能性があり、表示されている情報の一部が正しくない可能性があります。": {
+		"ja": "この端末に保存されている利用履歴のデータが途切れている可能性があり、表示されている情報の一部が正しくない可能性があります。",
+		"en": "Transactions data stored on this device may be interrupted, and some of the displayed information may be incorrect.",
+		"zh-Hans": "储存在此装置上的交易数据可能会受到影响，所显示的信息可能不正确。",
+		"zh-Hant": "儲存在此裝置上的交易數據可能會受到影響，而所顯示的信息可能不正確。",
+		"zh-HK": "儲存在此裝置上的交易數據可能會受影響，而所顯示的信息可能不正確。"
+	},
+
+	"チャージ": {
+		"ja": "チャージ",
+		"en": "Add Money",
+		"zh-Hans": "收费",
+		"zh-Hant": "收費",
+		"zh-HK": "收費"
+	},
+
+	"ポイントダウンロード": {
+		"ja": "ポイントダウンロード",
+		"en": "Point Downloaded",
+		"zh-Hans": "下载分数",
+		"zh-Hant": "下載分數",
+		"zh-HK": "下載分數"
+	},
+
+	"ポイント交換": {
+		"ja": "ポイント交換",
+		"en": "Point Exchange",
+		"zh-Hans": "交换分数",
+		"zh-Hant": "交換分數",
+		"zh-HK": "交換分數"
+	},
+
+	"メタデータ": {
+		"ja": "メタデータ",
+		"en": "Metadata",
+		"zh-Hans": "数据",
+		"zh-Hant": "數據",
+		"zh-HK": "數據"
+	},
+
+	"引き継ぎ": {
+		"ja": "引き継ぎ",
+		"en": "Transferred",
+		"zh-Hans": "转移",
+		"zh-Hant": "轉移",
+		"zh-HK": "轉移"
+	},
+
+	"支払い": {
+		"ja": "支払い",
+		"en": "Purchase",
+		"zh-Hans": "购买",
+		"zh-Hant": "購買",
+		"zh-HK": "購買"
+	},
+
+	"情報": {
+		"ja": "情報",
+		"en": "Info",
+		"zh-Hans": "信息",
+		"zh-Hant": "信息",
+		"zh-HK": "信息"
+	},
+
+	"新カードへ移行": {
+		"ja": "新カードへ移行",
+		"en": "Moved to New Card",
+		"zh-Hans": "转移至新卡",
+		"zh-Hant": "轉移至新卡",
+		"zh-HK": "轉移至新卡"
+	},
+
+	"読み込み中…": {
+		"ja": "読み込み中…",
+		"en": "Loading...",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"返金": {
+		"ja": "返金",
+		"en": "Refunded",
+		"zh-Hans": "退款",
+		"zh-Hant": "退款",
+		"zh-HK": "退款"
+	},
+
+	"利用履歴": {
+		"ja": "利用履歴",
+		"en": "Transactions",
+		"zh-Hans": "交易",
+		"zh-Hant": "交易",
+		"zh-HK": "交易"
+	}
+
+}

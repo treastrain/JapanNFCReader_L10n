@@ -1,0 +1,419 @@
+{
+
+	"PiTaPa": {
+		"ja": "PiTaPa",
+		"en": "PiTaPa",
+		"zh-Hans": "PiTaPa",
+		"zh-Hant": "PiTaPa",
+		"zh-HK": "PiTaPa"
+	},
+
+	"SFチャージ": {
+		"ja": "SFチャージ",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"VIEW": {
+		"ja": "VIEW",
+		"en": "VIEW",
+		"zh-Hans": "VIEW",
+		"zh-Hant": "VIEW",
+		"zh-HK": "VIEW"
+	},
+
+	"オートチャージ PASMO": {
+		"ja": "オートチャージ PASMO",
+		"en": "Auto top-up PASMO",
+		"zh-Hans": "自动充值 PASMO",
+		"zh-Hant": "自动加值 PASMO",
+		"zh-HK": "自动增值 PASMO"
+	},
+
+	"カード発売機": {
+		"ja": "カード発売機",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"きっぷ購入": {
+		"ja": "きっぷ購入",
+		"en": "Ticket Purchase",
+		"zh-Hans": "购票",
+		"zh-Hant": "購票",
+		"zh-HK": "購票"
+	},
+
+	"クイックチャージ機": {
+		"ja": "クイックチャージ機",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"チャージ控除": {
+		"ja": "チャージ控除",
+		"en": "Deduction",
+		"zh-Hans": "扣减",
+		"zh-Hant": "扣減",
+		"zh-HK": "扣減"
+	},
+
+	"のりこし精算": {
+		"ja": "のりこし精算",
+		"en": "Fare Adjustment",
+		"zh-Hans": "票价调整",
+		"zh-Hant": "票價調整",
+		"zh-HK": "票價調整"
+	},
+
+	"バス等": {
+		"ja": "バス等",
+		"en": "Bus etc.",
+		"zh-Hans": "公交車等",
+		"zh-Hant": "巴士等",
+		"zh-HK": "公交車等"
+	},
+
+	"バス等チャージ": {
+		"ja": "バス等チャージ",
+		"en": "Add Money (Bus etc.)",
+		"zh-Hans": "充值（公共交通）",
+		"zh-Hant": "加值（大眾運輸）",
+		"zh-HK": "增值（公共交通）"
+	},
+
+	"バス等均一運賃": {
+		"ja": "バス等均一運賃",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"バス等車載機": {
+		"ja": "バス等車載機",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"バス等精算": {
+		"ja": "バス等精算",
+		"en": "Adjustment (Bus etc.)",
+		"zh-Hans": "票价调整（公共交通）",
+		"zh-Hant": "票價調整（大眾運輸）",
+		"zh-HK": "票價調整（公共交通）"
+	},
+
+	"ビューアルッテ端末": {
+		"ja": "ビューアルッテ端末",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"ポイントチャージ": {
+		"ja": "ポイントチャージ",
+		"en": "Add Money (from Points)",
+		"zh-Hans": "加钱（使用积分）",
+		"zh-Hant": "加錢（使用積分）",
+		"zh-HK": "加錢（使用積分）"
+	},
+
+	"モバイルSuica/PASMO": {
+		"ja": "モバイルSuica/PASMO",
+		"en": "Mobile Suica/PASMO",
+		"zh-Hans": "Mobile Suica/PASMO",
+		"zh-Hant": "Mobile Suica/PASMO",
+		"zh-HK": "Mobile Suica/PASMO"
+	},
+
+	"駅業務機器": {
+		"ja": "駅業務機器",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"簡易改札機": {
+		"ja": "簡易改札機",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"携帯端末": {
+		"ja": "携帯端末",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"現金/なし": {
+		"ja": "現金/なし",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"交通機関": {
+		"ja": "交通機関",
+		"en": "Transit",
+		"zh-Hans": "交通",
+		"zh-Hant": "交通",
+		"zh-HK": "交通"
+	},
+
+	"控除": {
+		"ja": "控除",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"再発行": {
+		"ja": "再発行",
+		"en": "Reissued",
+		"zh-Hans": "补发",
+		"zh-Hant": "補發",
+		"zh-HK": "補發"
+	},
+
+	"磁気券精算": {
+		"ja": "磁気券精算",
+		"en": "Ticket Adjustment",
+		"zh-Hans": "票务调整",
+		"zh-Hant": "票務調整",
+		"zh-HK": "票務調整"
+	},
+
+	"自動改札機": {
+		"ja": "自動改札機",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"自動改札機出場": {
+		"ja": "自動改札機出場",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"自動券売機": {
+		"ja": "自動券売機",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"取り消し": {
+		"ja": "取り消し",
+		"en": "Canceled",
+		"zh-Hans": "取消",
+		"zh-Hant": "取消",
+		"zh-HK": "取消"
+	},
+
+	"新規": {
+		"ja": "新規",
+		"en": "New Issue",
+		"zh-Hans": "新发行",
+		"zh-Hant": "新發行",
+		"zh-HK": "新發行"
+	},
+
+	"窓口出場": {
+		"ja": "窓口出場",
+		"en": "Transit (Booth)",
+		"zh-Hans": "票务中心",
+		"zh-Hant": "票務中心",
+		"zh-HK": "票務中心"
+	},
+
+	"窓口処理機（みどりの窓口）": {
+		"ja": "窓口処理機（みどりの窓口）",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"窓口処理機（有人改札）": {
+		"ja": "窓口処理機（有人改札）",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"他社乗換自動改札機": {
+		"ja": "他社乗換自動改札機",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"定期券発売機": {
+		"ja": "定期券発売機",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"入金機": {
+		"ja": "入金機",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"入場": {
+		"ja": "入場",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"入場・出場": {
+		"ja": "入場・出場",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"入場・出場（バス等）": {
+		"ja": "入場・出場（バス等）",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"入場・出場（バス等乗継割引）": {
+		"ja": "入場・出場（バス等乗継割引）",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"入場・出場（乗継割引）": {
+		"ja": "入場・出場（乗継割引）",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"入場・出場(定期)": {
+		"ja": "入場・出場(定期)",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"入場・物販": {
+		"ja": "入場・物販",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"入場(定期)・出場": {
+		"ja": "入場(定期)・出場",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"入場券券売機": {
+		"ja": "入場券券売機",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"発行機": {
+		"ja": "発行機",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"物販": {
+		"ja": "物販",
+		"en": "Purchase",
+		"zh-Hans": "购买",
+		"zh-Hant": "購買",
+		"zh-HK": "購買"
+	},
+
+	"物販（現金併用）": {
+		"ja": "物販（現金併用）",
+		"en": "Purchase (with cash)",
+		"zh-Hans": "购买（使用现金）",
+		"zh-Hant": "購買（使用現金）",
+		"zh-HK": "購買（使用現金）"
+	},
+
+	"物販取り消し": {
+		"ja": "物販取り消し",
+		"en": "Canceled Product Sales",
+		"zh-Hans": "已取消的交易",
+		"zh-Hant": "已取消的交易",
+		"zh-HK": "已取消的交易"
+	},
+
+	"物販端末": {
+		"ja": "物販端末",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"料金出場": {
+		"ja": "料金出場",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"料金入場(定期)・料金出場": {
+		"ja": "料金入場(定期)・料金出場",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	}
+
+}

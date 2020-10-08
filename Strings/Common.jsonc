@@ -1,0 +1,67 @@
+{
+
+	"OK": {
+		"ja": "OK",
+		"en": "OK",
+		"zh-Hans": "OK",
+		"zh-Hant": "OK",
+		"zh-HK": "OK"
+	},
+
+	"キャンセル": {
+		"ja": "キャンセル",
+		"en": "Cancel",
+		"zh-Hans": "取消",
+		"zh-Hant": "取消",
+		"zh-HK": "取消"
+	},
+
+	"ポイント": {
+		"ja": "ポイント",
+		"en": "Points",
+		"zh-Hans": "分",
+		"zh-Hant": "分",
+		"zh-HK": "分"
+	},
+
+	"購入": {
+		"ja": "購入",
+		"en": "Purchase",
+		"zh-Hans": "购买",
+		"zh-Hant": "購買",
+		"zh-HK": "購買"
+	},
+
+	"削除する": {
+		"ja": "削除する",
+		"en": "Delete",
+		"zh-Hans": "删除",
+		"zh-Hant": "刪除",
+		"zh-HK": "刪除"
+	},
+
+	"残高": {
+		"ja": "残高",
+		"en": "Balance",
+		"zh-Hans": "余额",
+		"zh-Hant": "餘額",
+		"zh-HK": "餘額"
+	},
+
+	"謝辞": {
+		"ja": "謝辞",
+		"en": "Acknowledgments",
+		"zh-Hans": "鸣谢",
+		"zh-Hant": "鳴謝",
+		"zh-HK": "鳴謝"
+	},
+
+	"不明": {
+		"ja": "不明",
+		"en": "Unknown",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	}
+
+}

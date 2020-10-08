@@ -1,0 +1,27 @@
+{
+
+	"https://www.octopus.com.hk/en/consumer/customer-service/faq/get-your-octopus/about-octopus.html#3532": {
+		"ja": "https://www.octopus.com.hk/en/consumer/customer-service/faq/get-your-octopus/about-octopus.html#3532",
+		"en": "https://www.octopus.com.hk/en/consumer/customer-service/faq/get-your-octopus/about-octopus.html#3532",
+		"zh-Hans": "https://www.octopus.com.hk/sc/consumer/customer-service/faq/get-your-octopus/about-octopus.html#1977",
+		"zh-Hant": "https://www.octopus.com.hk/tc/consumer/customer-service/faq/get-your-octopus/about-octopus.html#1976",
+		"zh-HK": "https://www.octopus.com.hk/tc/consumer/customer-service/faq/get-your-octopus/about-octopus.html#1976"
+	},
+
+	"オクトパスカードが読み取られました。オクトパスカードはカードの発行日によってオフセットが異なります。このカードのオフセットを選択してください。この設定は後から変更できます。": {
+		"ja": "オクトパスカードが読み取られました。オクトパスカードはカードの発行日によってオフセットが異なります。このカードのオフセットを選択してください。この設定は後から変更できます。",
+		"en": "Octopus card has been read. Select an offset.",
+		"zh-Hans": "八达通已被读取。请选择抵销金额。",
+		"zh-Hant": "八達通已被讀取。請選擇抵銷金額。",
+		"zh-HK": "八達通已被讀取。請選擇抵抵銷金額。"
+	},
+
+	"詳しい情報…": {
+		"ja": "詳しい情報…",
+		"en": "More info…",
+		"zh-Hans": "更多资讯…",
+		"zh-Hant": "更多資訊…",
+		"zh-HK": "更多資訊…"
+	}
+
+}

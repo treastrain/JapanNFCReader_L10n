@@ -1,0 +1,91 @@
+{
+
+	"%@ には残高の情報が含まれていないため、表示できる情報がありません。": {
+		"ja": "%@ には残高の情報が含まれていないため、表示できる情報がありません。",
+		"en": "%@ is not supported because its data does not contain balance information.",
+		"zh-Hans": "不支持 %@，因为其数据不包含余额资讯。",
+		"zh-Hant": "不支持 %@，因為其數據不包含餘額資訊。",
+		"zh-HK": "不支援 %@，因為其數據不包含餘額資訊。"
+	},
+
+	"FeliCa タグではないものが検出されました。": {
+		"ja": "FeliCa タグではないものが検出されました。",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"カードの種類を自動判別できませんでした。もしくは非対応のカードです。": {
+		"ja": "カードの種類を自動判別できませんでした。もしくは非対応のカードです。",
+		"en": "The card type could not be automatically detected, or unsupported card.",
+		"zh-Hans": "无法自动检测卡片类型或不支持此卡。",
+		"zh-Hant": "無法自動檢測卡片類型或不支持此卡。",
+		"zh-HK": "無法自動檢測卡片類型或不支援此卡。"
+	},
+
+	"カードをかざす位置は iPhone の上部(背面カメラ付近)です。": {
+		"ja": "カードをかざす位置は iPhone の上部(背面カメラ付近)です。",
+		"en": "The place where the iPhone rests the card is at the top (near the back camera).",
+		"zh-Hans": "把卡片放在 iPhone 的顶部（靠近后置镜头）。",
+		"zh-Hant": "把卡片放在 iPhone 的頂部（靠近後置鏡頭）。",
+		"zh-HK": "將卡片放在 iPhone 的頂部（靠近後置鏡頭）。"
+	},
+
+	"カード情報を編集": {
+		"ja": "カード情報を編集",
+		"en": "Edit Card Info",
+		"zh-Hans": "编辑卡片资讯",
+		"zh-Hant": "編輯卡片資訊",
+		"zh-HK": "編輯卡片資訊"
+	},
+
+	"このカード": {
+		"ja": "このカード",
+		"en": "This card",
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
+	"スキャン": {
+		"ja": "スキャン",
+		"en": "Scan",
+		"zh-Hans": "扫瞄",
+		"zh-Hant": "掃瞄",
+		"zh-HK": "掃瞄"
+	},
+
+	"スキャンした後に詳細を表示": {
+		"ja": "スキャンした後に詳細を表示",
+		"en": "Show details after scanning",
+		"zh-Hans": "扫瞄后显示详细资料",
+		"zh-Hant": "掃後顯示詳細資料",
+		"zh-HK": "掃後顯示詳細資料"
+	},
+
+	"スキャン機能は利用できません": {
+		"ja": "スキャン機能は利用できません",
+		"en": "Unavailable",
+		"zh-Hans": "不可用",
+		"zh-Hant": "不可用",
+		"zh-HK": "不可用"
+	},
+
+	"詳細を表示": {
+		"ja": "詳細を表示",
+		"en": "Show Details",
+		"zh-Hans": "显示详情",
+		"zh-Hant": "顯示詳情",
+		"zh-HK": "顯示詳情"
+	},
+
+	"本デバイスは「リーダーモード対応NFC」に対応していないため、スキャン機能を利用することができません。": {
+		"ja": "本デバイスは「リーダーモード対応NFC」に対応していないため、スキャン機能を利用することができません。",
+		"en": "This device does not support \\\"NFC with reader mode\\\".",
+		"zh-Hans": "此设备不支持「读卡器模式的 NFC」。",
+		"zh-Hant": "此設備不支援「NFC 配備讀取模式」。",
+		"zh-HK": "此設備不支援「NFC 配備讀取模式」。"
+	}
+
+}

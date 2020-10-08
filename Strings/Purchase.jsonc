@@ -1,0 +1,19 @@
+{
+
+	"過去に購入済みの場合はこちらから購入の復元をお試しください。": {
+		"ja": "過去に購入済みの場合はこちらから購入の復元をお試しください。",
+		"en": "If you have purchased in the past, try restoring your purchase.",
+		"zh-Hans": "如果你曾经购买过，请尝试回复购买，",
+		"zh-Hant": "如果你曾經購買過，請嘗試回復購買，",
+		"zh-HK": "如果你曾經購買過，請嘗試回復購買，"
+	},
+
+	"購入の復元": {
+		"ja": "購入の復元",
+		"en": "Restore Purchases",
+		"zh-Hans": "回复购买",
+		"zh-Hant": "回復購買",
+		"zh-HK": "回復購買"
+	}
+
+}
