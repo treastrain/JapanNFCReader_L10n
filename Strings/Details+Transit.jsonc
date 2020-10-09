@@ -290,7 +290,7 @@
 
 	"入場": {
 		"ja": "入場",
-		"en": "Platform Access",
+		"en": "Admission",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -298,7 +298,7 @@
 
 	"入場・出場": {
 		"ja": "入場・出場",
-		"en": "Platform Access & Participation",
+		"en": "Station Access",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -306,7 +306,7 @@
 
 	"入場・出場（バス等）": {
 		"ja": "入場・出場（バス等）",
-		"en": "Platform Access & Participation (Bus, etc.)",
+		"en": "Station Access (Bus, etc.)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -314,7 +314,7 @@
 
 	"入場・出場（バス等乗継割引）": {
 		"ja": "入場・出場（バス等乗継割引）",
-		"en": "Platform Access & Participation (Discounted Bus Transfers)",
+		"en": "Station Access (Discounted Bus Transfers)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -322,7 +322,7 @@
 
 	"入場・出場（乗継割引）": {
 		"ja": "入場・出場（乗継割引）",
-		"en": "Platform Access & Participation (Discounted Transfers)",
+		"en": "Station Access (Discounted Transfers)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -330,7 +330,7 @@
 
 	"入場・出場(定期)": {
 		"ja": "入場・出場(定期)",
-		"en": "Platform Access & Participation (Fixed-Term)",
+		"en": "Admission & Access (Fixed-Term)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -338,7 +338,7 @@
 
 	"入場・物販": {
 		"ja": "入場・物販",
-		"en": "Platform Access & Sales",
+		"en": "Admission & Sales",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -346,7 +346,7 @@
 
 	"入場(定期)・出場": {
 		"ja": "入場(定期)・出場",
-		"en": "Platform Access (Fixed-Term) & Participation",
+		"en": "Admission (Fixed-Term) & Access",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -354,7 +354,7 @@
 
 	"入場券券売機": {
 		"ja": "入場券券売機",
-		"en": "Platform Access Ticket Vending Machine",
+		"en": "Admission Ticket Vending Machine",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
