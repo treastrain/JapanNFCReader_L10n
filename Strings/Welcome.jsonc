@@ -18,7 +18,7 @@
 
 	"現在こちらから 利用規約とプライバシーポリシー を確認いただけません。ブラウザから利用規約とプライバシーポリシーをご確認ください。": {
 		"ja": "現在こちらから 利用規約とプライバシーポリシー を確認いただけません。ブラウザから利用規約とプライバシーポリシーをご確認ください。",
-		"en": null,
+		"en": "An error occurred while loading the page. Please review the Terms of Service and Privacy Policy from your browser.",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -34,7 +34,7 @@
 
 	"続けると、利用規約とプライバシーポリシーに同意したことになります。": {
 		"ja": "続けると、利用規約とプライバシーポリシーに同意したことになります。",
-		"en": "By continuing, you are indicating that you accept our Terms of Service and Privacy Policy.",
+		"en": "If you continue, you indicate that you agree to the Terms of Service and Privacy Policy.",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null

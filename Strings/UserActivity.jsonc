@@ -2,7 +2,7 @@
 
 	"カードをスキャン": {
 		"ja": "カードをスキャン",
-		"en": "Scan the card",
+		"en": "Scan the Card",
 		"zh-Hans": "扫瞄卡片",
 		"zh-Hant": "掃描卡片",
 		"zh-HK": "掃瞄卡片"
@@ -10,7 +10,7 @@
 
 	"スキャン開始": {
 		"ja": "スキャン開始",
-		"en": "Start scan",
+		"en": "Start Scan",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null

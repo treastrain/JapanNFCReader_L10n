@@ -26,7 +26,7 @@
 
 	"オートチャージ PASMO": {
 		"ja": "オートチャージ PASMO",
-		"en": "Auto top-up PASMO",
+		"en": "Auto Top-Up PASMO",
 		"zh-Hans": "自动充值 PASMO",
 		"zh-Hant": "自动加值 PASMO",
 		"zh-HK": "自动增值 PASMO"
@@ -34,7 +34,7 @@
 
 	"カード発売機": {
 		"ja": "カード発売機",
-		"en": null,
+		"en": "Card Ticketting Machine",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -50,7 +50,7 @@
 
 	"クイックチャージ機": {
 		"ja": "クイックチャージ機",
-		"en": null,
+		"en": "Quick Charge Machine",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -74,7 +74,7 @@
 
 	"バス等": {
 		"ja": "バス等",
-		"en": "Bus etc.",
+		"en": "Bus, etc.",
 		"zh-Hans": "公交車等",
 		"zh-Hant": "巴士等",
 		"zh-HK": "公交車等"
@@ -82,7 +82,7 @@
 
 	"バス等チャージ": {
 		"ja": "バス等チャージ",
-		"en": "Add Money (Bus etc.)",
+		"en": "Add Money (Bus, etc.)",
 		"zh-Hans": "充值（公共交通）",
 		"zh-Hant": "加值（大眾運輸）",
 		"zh-HK": "增值（公共交通）"
@@ -90,7 +90,7 @@
 
 	"バス等均一運賃": {
 		"ja": "バス等均一運賃",
-		"en": null,
+		"en": "Flat-Rate Bus Fare",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -98,7 +98,7 @@
 
 	"バス等車載機": {
 		"ja": "バス等車載機",
-		"en": null,
+		"en": "Buses and other vehicles",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -106,7 +106,7 @@
 
 	"バス等精算": {
 		"ja": "バス等精算",
-		"en": "Adjustment (Bus etc.)",
+		"en": "Adjustment (Bus, etc.)",
 		"zh-Hans": "票价调整（公共交通）",
 		"zh-Hant": "票價調整（大眾運輸）",
 		"zh-HK": "票價調整（公共交通）"
@@ -114,7 +114,7 @@
 
 	"ビューアルッテ端末": {
 		"ja": "ビューアルッテ端末",
-		"en": null,
+		"en": "VIEW ALTTE ATM",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -138,7 +138,7 @@
 
 	"駅業務機器": {
 		"ja": "駅業務機器",
-		"en": null,
+		"en": "Station Equipment",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -146,7 +146,7 @@
 
 	"簡易改札機": {
 		"ja": "簡易改札機",
-		"en": null,
+		"en": "Standalone Card Reader",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -154,7 +154,7 @@
 
 	"携帯端末": {
 		"ja": "携帯端末",
-		"en": null,
+		"en": "Portable Terminal",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -162,7 +162,7 @@
 
 	"現金/なし": {
 		"ja": "現金/なし",
-		"en": null,
+		"en": "Cash / None",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -178,7 +178,7 @@
 
 	"控除": {
 		"ja": "控除",
-		"en": null,
+		"en": "Deducted",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -202,7 +202,7 @@
 
 	"自動改札機": {
 		"ja": "自動改札機",
-		"en": null,
+		"en": "Automatic Ticket Gates",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -210,7 +210,7 @@
 
 	"自動改札機出場": {
 		"ja": "自動改札機出場",
-		"en": null,
+		"en": "Automatic Ticket Gates (Entry)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -218,7 +218,7 @@
 
 	"自動券売機": {
 		"ja": "自動券売機",
-		"en": null,
+		"en": "Ticket Machine",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -242,7 +242,7 @@
 
 	"窓口出場": {
 		"ja": "窓口出場",
-		"en": "Transit (Booth)",
+		"en": "Ticket Window (Transaction)",
 		"zh-Hans": "票务中心",
 		"zh-Hant": "票務中心",
 		"zh-HK": "票務中心"
@@ -250,7 +250,7 @@
 
 	"窓口処理機（みどりの窓口）": {
 		"ja": "窓口処理機（みどりの窓口）",
-		"en": null,
+		"en": "Ticket Machine (Ticket Office)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -258,7 +258,7 @@
 
 	"窓口処理機（有人改札）": {
 		"ja": "窓口処理機（有人改札）",
-		"en": null,
+		"en": "Ticket Machine (Manned Gate)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -266,7 +266,7 @@
 
 	"他社乗換自動改札機": {
 		"ja": "他社乗換自動改札機",
-		"en": null,
+		"en": "Ticket Gate (Transfer)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -274,7 +274,7 @@
 
 	"定期券発売機": {
 		"ja": "定期券発売機",
-		"en": null,
+		"en": "Commuter Pass Machine",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -282,7 +282,7 @@
 
 	"入金機": {
 		"ja": "入金機",
-		"en": null,
+		"en": "Recharge Machine",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -290,7 +290,7 @@
 
 	"入場": {
 		"ja": "入場",
-		"en": null,
+		"en": "Admission",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -298,7 +298,7 @@
 
 	"入場・出場": {
 		"ja": "入場・出場",
-		"en": null,
+		"en": "Station Access",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -306,7 +306,7 @@
 
 	"入場・出場（バス等）": {
 		"ja": "入場・出場（バス等）",
-		"en": null,
+		"en": "Station Access (Bus, etc.)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -314,7 +314,7 @@
 
 	"入場・出場（バス等乗継割引）": {
 		"ja": "入場・出場（バス等乗継割引）",
-		"en": null,
+		"en": "Station Access (Discounted Bus Transfers)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -322,7 +322,7 @@
 
 	"入場・出場（乗継割引）": {
 		"ja": "入場・出場（乗継割引）",
-		"en": null,
+		"en": "Station Access (Discounted Transfers)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -330,7 +330,7 @@
 
 	"入場・出場(定期)": {
 		"ja": "入場・出場(定期)",
-		"en": null,
+		"en": "Admission & Access (Fixed-Term)",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -338,7 +338,7 @@
 
 	"入場・物販": {
 		"ja": "入場・物販",
-		"en": null,
+		"en": "Admission & Sales",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -346,7 +346,7 @@
 
 	"入場(定期)・出場": {
 		"ja": "入場(定期)・出場",
-		"en": null,
+		"en": "Admission (Fixed-Term) & Access",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -354,7 +354,7 @@
 
 	"入場券券売機": {
 		"ja": "入場券券売機",
-		"en": null,
+		"en": "Admission Ticket Vending Machine",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -362,7 +362,7 @@
 
 	"発行機": {
 		"ja": "発行機",
-		"en": null,
+		"en": "Issuing Machine",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -386,7 +386,7 @@
 
 	"物販取り消し": {
 		"ja": "物販取り消し",
-		"en": "Canceled Product Sales",
+		"en": "Canceled Product Sale",
 		"zh-Hans": "已取消的交易",
 		"zh-Hant": "已取消的交易",
 		"zh-HK": "已取消的交易"
@@ -394,7 +394,7 @@
 
 	"物販端末": {
 		"ja": "物販端末",
-		"en": null,
+		"en": "PoS Terminal",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -402,7 +402,7 @@
 
 	"料金出場": {
 		"ja": "料金出場",
-		"en": null,
+		"en": "Participation Fee",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -410,7 +410,7 @@
 
 	"料金入場(定期)・料金出場": {
 		"ja": "料金入場(定期)・料金出場",
-		"en": null,
+		"en": "Admission Fee (Fixed-Term) & Participation Fee",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null

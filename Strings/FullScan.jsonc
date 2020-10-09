@@ -2,7 +2,7 @@
 
 	"iPhone の背面カメラ付近に、カードの下半分を隠すように置いてください。この表示が切り替わるまで最大で1分かかる場合があります。": {
 		"ja": "iPhone の背面カメラ付近に、カードの下半分を隠すように置いてください。この表示が切り替わるまで最大で1分かかる場合があります。",
-		"en": "Rest your iPhone on the bottom half of the card, as shown above. This process may require up to one minute to complete.",
+		"en": "Rest your iPhone on the bottom half of the card, as shown above. This process may take up to one minute to complete.",
 		"zh-Hans": "如上图所示，把 iPhone 放在卡片的下半部分。整个过程需时大约2分钟完成。",
 		"zh-Hant": "如上圖所示，把 iPhone 放在卡片的下半部分。整個過程需時大約2分鐘完成。",
 		"zh-HK": "如上圖所示，將 iPhone 放在卡片的下半部分。整個過程需時大約2分鐘完成。"
@@ -10,7 +10,7 @@
 
 	"スキャンの後、広告が表示されます。": {
 		"ja": "スキャンの後、広告が表示されます。",
-		"en": "After the scan, the ad will be displayed.",
+		"en": "After the scan, an ad will be displayed.",
 		"zh-Hans": "扫瞄完毕后会显示广告。",
 		"zh-Hant": "掃瞄完畢後會顯示廣告。",
 		"zh-HK": "掃瞄完畢後會顯示廣告。"
@@ -26,7 +26,7 @@
 
 	"フルスキャンには時間がかかる場合があります。iOS 側の制約により読み取り可能な FeliCa システムコードに制限があります。各 FeliCa サービスコードの最大読み取りブロック数は36です。": {
 		"ja": "フルスキャンには時間がかかる場合があります。iOS 側の制約により読み取り可能な FeliCa システムコードに制限があります。各 FeliCa サービスコードの最大読み取りブロック数は36です。",
-		"en": "Full scan may take some time. There are restrictions on the readable FeliCa system codes due to iOS limitations. The maximum number of read blocks for each FeliCa service code is 36.",
+		"en": "Full Scan may take some time. There are restrictions on readable FeliCa card data due to iOS limitations. The maximum number of read blocks for each FeliCa service code is 36.",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
@@ -50,7 +50,7 @@
 
 	"接続エラーです。もう一度やり直してください。": {
 		"ja": "接続エラーです。もう一度やり直してください。",
-		"en": "Connection error. Please try again.",
+		"en": "Connection Error. Please try again.",
 		"zh-Hans": "连接错误。请重试。",
 		"zh-Hant": "連接錯誤。請重試。",
 		"zh-HK": "連接錯誤。請重試。"
@@ -66,7 +66,7 @@
 
 	"非対応のカードです。": {
 		"ja": "非対応のカードです。",
-		"en": "The card is not supported.",
+		"en": "This card is not supported.",
 		"zh-Hans": "不支持此卡片。",
 		"zh-Hant": "不支持此卡。",
 		"zh-HK": "不支援此卡片。"
@@ -74,7 +74,7 @@
 
 	"複数のカードが検出されました。すべてのカードを取り除いてもう一度やり直してください。": {
 		"ja": "複数のカードが検出されました。すべてのカードを取り除いてもう一度やり直してください。",
-		"en": "More than 1 card is detected. Please remove all cards and try again.",
+		"en": "More than 1 card was detected. Please try again with only 1 card.",
 		"zh-Hans": "检测到多于一张卡片。请移除所有卡然后重试。",
 		"zh-Hant": "偵測到多於一張卡片。請移除所有卡然後重試。",
 		"zh-HK": "偵測到多於一張卡片。請移除所有卡然後重試。"
