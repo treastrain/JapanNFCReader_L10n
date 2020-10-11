@@ -3,9 +3,9 @@
 	"Mac に接続": {
 		"ja": "Mac に接続",
 		"en": "Connect to Mac",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "连接到 Mac",
+		"zh-Hant": "連接到 Mac",
+		"zh-HK": "連接到Mac"
 	},
 
 	"Twitter": {
@@ -35,17 +35,17 @@
 	"その他": {
 		"ja": "その他",
 		"en": "More",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "其他",
+		"zh-Hant": "其他",
+		"zh-HK": "其他"
 	},
 
 	"その他": {
 		"ja": "その他",
 		"en": "More",
-		"zh-Hans": "更多",
-		"zh-Hant": "更多",
-		"zh-HK": "更多"
+		"zh-Hans": "其他",
+		"zh-Hant": "其他",
+		"zh-HK": "其他"
 	},
 
 	"バージョン": {
@@ -67,54 +67,54 @@
 	"運転免許証の暗証番号・マイナンバーカードのパスワード": {
 		"ja": "運転免許証の暗証番号・マイナンバーカードのパスワード",
 		"en": "Driver's Licence & Individual Number Card (Japanese Only)",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "驾驶执照密码/个人号码卡 PIN 码（日本人适用",
+		"zh-Hant": "駕駛執照密碼/個人號碼卡 PIN 碼（日本人適用）",
+		"zh-HK": "駕駛執照密碼/個人號碼卡 PIN 碼（日本人適用）"
 	},
 
 	"運転免許証の暗証番号の残り試行回数 および マイナンバーカードのパスワードの残り試行回数を確認することができます。": {
 		"ja": "運転免許証の暗証番号の残り試行回数 および マイナンバーカードのパスワードの残り試行回数を確認することができます。",
 		"en": "You can check the remaining number of trials for the Password/PIN of Driver's Licence Card or Individual Number Card at Japan.",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "您可以查询驾驶执照密码/个人号码卡 PIN 码的剩余试用次数。",
+		"zh-Hant": "您可以查詢駕駛執照/個人號碼卡 PIN 碼的剩餘試用次數。",
+		"zh-HK": "您可以查詢駕駛執照/個人號碼卡 PIN 碼的剩餘試用次數。"
 	},
 
 	"広告非表示オプションの購入はこちらから行うことができます。": {
 		"ja": "広告非表示オプションの購入はこちらから行うことができます。",
-		"en": "You can purchase hide ads options.",
-		"zh-Hans": "你可以购买隐藏广告的选项。",
-		"zh-Hant": "你可以购买隐藏广告的选项。",
-		"zh-HK": "你可以购买隐藏广告的选项。"
+		"en": "You can purchase options to remove ads.",
+		"zh-Hans": "您可以购买隐藏广告的选项。",
+		"zh-Hant": "您可以购买隐藏广告的选项。",
+		"zh-HK": "您可以购买隐藏广告的选项。"
 	},
 
 	"高度な機能": {
 		"ja": "高度な機能",
 		"en": "Advanced Features",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "高级功能",
+		"zh-Hant": "進階功能",
+		"zh-HK": "進階功能"
 	},
 
 	"残り試行回数の確認": {
 		"ja": "残り試行回数の確認",
 		"en": "Check the remaining of trials for PIN",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "查询剩余试用次数",
+		"zh-Hant": "查詢剩餘試用次數",
+		"zh-HK": "查詢剩餘試用次數"
 	},
 
 	"読み取った履歴をすべて削除しますか？この操作は取り消すことができません。": {
 		"ja": "読み取った履歴をすべて削除しますか？この操作は取り消すことができません。",
 		"en": "Do you want to permanently delete all scanned history data? You can’t undo this action.",
-		"zh-Hans": "你确定要清除所有扫瞄历史纪录吗？你将不能取消此操作。",
-		"zh-Hant": "你確定要清除所有掃瞄歷史紀錄嗎？你將不能取消此操作。",
-		"zh-HK": "你確定要清除所有掃瞄歷史紀錄嗎？你將不能取消此操作。"
+		"zh-Hans": "您确定要清除所有扫瞄历史纪录吗？此操作无法撤销。",
+		"zh-Hant": "您確定要清除所有掃瞄歷史紀錄嗎？您將無法還原此動作。",
+		"zh-HK": "您確定要清除所有掃瞄歷史紀錄嗎？您將無法還原此項動作。"
 	},
 
 	"不具合報告等は現在 Twitter 上で受け付けています。": {
 		"ja": "不具合報告等は現在 Twitter 上で受け付けています。",
-		"en": "Thanks for your bug reports via Twitter.",
+		"en": "Please submit your bug reports via Twitter.",
 		"zh-Hans": "請在 Twitter 上提交错误报告。",
 		"zh-Hant": "請在 Twitter 上提交錯誤報告。",
 		"zh-HK": "請在 Twitter 上提交錯誤報告。"
@@ -123,9 +123,9 @@
 	"履歴をすべて削除": {
 		"ja": "履歴をすべて削除",
 		"en": "Delete all history",
-		"zh-Hans": "删除所有历史记录",
-		"zh-Hant": "刪除所有歷史記錄",
-		"zh-HK": "刪除所有歷史記錄"
+		"zh-Hans": "清除所有历史记录",
+		"zh-Hant": "清除所有歷史記錄",
+		"zh-HK": "清除所有歷史記錄"
 	}
 
 }
