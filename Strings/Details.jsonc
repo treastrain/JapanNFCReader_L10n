@@ -2,7 +2,7 @@
 
 	"オートチャージ": {
 		"ja": "オートチャージ",
-		"en": "Auto top-up",
+		"en": "Auto Top-Up",
 		"zh-Hans": "自动充值",
 		"zh-Hant": "自动加值",
 		"zh-HK": "自动增值"
@@ -18,7 +18,7 @@
 
 	"この端末に保存されている利用履歴のデータが途切れている可能性があり、表示されている情報の一部が正しくない可能性があります。": {
 		"ja": "この端末に保存されている利用履歴のデータが途切れている可能性があり、表示されている情報の一部が正しくない可能性があります。",
-		"en": "Transactions data stored on this device may be interrupted, and some of the displayed information may be incorrect.",
+		"en": "Transaction data stored on this device may be interrupted, and some of the displayed information may be incorrect.",
 		"zh-Hans": "储存在此装置上的交易数据可能会受到影响，所显示的信息可能不正确。",
 		"zh-Hant": "儲存在此裝置上的交易數據可能會受到影響，而所顯示的信息可能不正確。",
 		"zh-HK": "儲存在此裝置上的交易數據可能會受影響，而所顯示的信息可能不正確。"

@@ -18,7 +18,7 @@
 
 	"カードの種類を自動判別できませんでした。もしくは非対応のカードです。": {
 		"ja": "カードの種類を自動判別できませんでした。もしくは非対応のカードです。",
-		"en": "The card type could not be automatically detected, or the card is not supported.",
+		"en": "The card type could not be determined, or this card type is unsupported.",
 		"zh-Hans": "无法自动检测卡片类型或不支持此卡。",
 		"zh-Hant": "無法自動偵測卡片類型或不支持此卡。",
 		"zh-HK": "無法自動偵測卡片類型或不支援此卡。"
@@ -82,10 +82,10 @@
 
 	"本デバイスは「リーダーモード対応NFC」に対応していないため、スキャン機能を利用することができません。": {
 		"ja": "本デバイスは「リーダーモード対応NFC」に対応していないため、スキャン機能を利用することができません。",
-		"en": "This device does not support \\\"NFC with reader mode\\\".",
-		"zh-Hans": "此设备不支持「NFC 读卡模式」。",
-		"zh-Hant": "此裝置不支援「NFC 讀取模式」。",
-		"zh-HK": "此裝置不支援「NFC 讀取模式」。"
+		"en": "This device does not support \\\"NFC with Reader Mode\\\".",
+		"zh-Hans": "此设备不支持「读卡器模式的 NFC」。",
+		"zh-Hant": "此裝置不支援「NFC 配備讀取模式」。",
+		"zh-HK": "此裝置不支援「NFC 配備讀取模式」。"
 	}
 
 }

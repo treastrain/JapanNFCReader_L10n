@@ -10,7 +10,7 @@
 
 	"最終利用日": {
 		"ja": "最終利用日",
-		"en": "Last Use Date",
+		"en": "Last Used",
 		"zh-Hans": "上次使用日期",
 		"zh-Hant": "上次使用日期",
 		"zh-HK": "上次使用日期"
@@ -26,7 +26,7 @@
 
 	"利用していない": {
 		"ja": "利用していない",
-		"en": "Not in use",
+		"en": "Not in Use",
 		"zh-Hans": "不在使用中",
 		"zh-Hant": "不在使用中",
 		"zh-HK": "不在使用中"
@@ -42,7 +42,7 @@
 
 	"利用中/利用したことがある": {
 		"ja": "利用中/利用したことがある",
-		"en": "In use / have used",
+		"en": "In Use / Have Used",
 		"zh-Hans": "使用中／已用",
 		"zh-Hant": "使用中／已用",
 		"zh-HK": "使用中／已用"

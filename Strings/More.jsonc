@@ -35,17 +35,9 @@
 	"その他": {
 		"ja": "その他",
 		"en": "More",
-		"zh-Hans": "其他",
-		"zh-Hant": "其他",
-		"zh-HK": "其他"
-	},
-
-	"その他": {
-		"ja": "その他",
-		"en": "More",
-		"zh-Hans": "其他",
-		"zh-Hant": "其他",
-		"zh-HK": "其他"
+		"zh-Hans": "更多",
+		"zh-Hant": "更多",
+		"zh-HK": "更多"
 	},
 
 	"バージョン": {
@@ -82,7 +74,7 @@
 
 	"広告非表示オプションの購入はこちらから行うことができます。": {
 		"ja": "広告非表示オプションの購入はこちらから行うことができます。",
-		"en": "You can purchase options to remove ads.",
+		"en": "You can purchase the ability to remove ads.",
 		"zh-Hans": "您可以购买隐藏广告的选项。",
 		"zh-Hant": "您可以购买隐藏广告的选项。",
 		"zh-HK": "您可以购买隐藏广告的选项。"
@@ -114,10 +106,10 @@
 
 	"不具合報告等は現在 Twitter 上で受け付けています。": {
 		"ja": "不具合報告等は現在 Twitter 上で受け付けています。",
-		"en": "Please submit your bug reports via Twitter.",
-		"zh-Hans": "請在 Twitter 上提交错误报告。",
-		"zh-Hant": "請在 Twitter 上提交錯誤報告。",
-		"zh-HK": "請在 Twitter 上提交錯誤報告。"
+		"en": "If you'd like to report a bug, contact us on Twitter.",
+		"zh-Hans": "如果你希望提交错误报告，请在 Twitter 上联络我们。",
+		"zh-Hant": "如果你希望提交錯誤報告，請在 Twitter 上聯絡我們。",
+		"zh-HK": "如果你想提交錯誤報告，請透過 Twitter 聯絡我們。"
 	},
 
 	"履歴をすべて削除": {
