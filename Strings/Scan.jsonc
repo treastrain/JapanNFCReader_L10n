@@ -84,8 +84,8 @@
 		"ja": "本デバイスは「リーダーモード対応NFC」に対応していないため、スキャン機能を利用することができません。",
 		"en": "This device does not support \\\"NFC with reader mode\\\".",
 		"zh-Hans": "此设备不支持「NFC 读卡模式」。",
-		"zh-Hant": "此設備不支援「NFC 讀取模式」。",
-		"zh-HK": "此設備不支援「NFC 讀取模式」。"
+		"zh-Hant": "此裝置不支援「NFC 讀取模式」。",
+		"zh-HK": "此裝置不支援「NFC 讀取模式」。"
 	}
 
 }
