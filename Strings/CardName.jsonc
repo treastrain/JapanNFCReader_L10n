@@ -264,6 +264,14 @@
 		"zh-HK": "PASPY（備北交通）"
 	},
 
+	"passca": {
+		"ja": "passca",
+		"en": "passca",
+		"zh-Hans": "passca",
+		"zh-Hant": "passca",
+		"zh-HK": "passca"
+	},
+
 	"PiTaPa": {
 		"ja": "PiTaPa",
 		"en": "PiTaPa",
@@ -326,6 +334,14 @@
 		"zh-Hans": "Welcome Suica",
 		"zh-Hant": "Welcome Suica",
 		"zh-HK": "Welcome Suica"
+	},
+
+	"オクトパス": {
+		"ja": "オクトパス",
+		"en": "Octopus",
+		"zh-Hans": "八达通",
+		"zh-Hant": "八達通",
+		"zh-HK": "八達通"
 	},
 
 	"オクトパス（シニア）": {
