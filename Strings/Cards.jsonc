@@ -106,7 +106,7 @@
 
 	"このカード情報はアプリ内での表示等に使用されるもので、スキャンの際にカードに書き込まれることはありません。": {
 		"ja": "このカード情報はアプリ内での表示等に使用されるもので、スキャンの際にカードに書き込まれることはありません。",
-		"en": "This card information is used for display within the app and is not written to the card when scanning.",
+		"en": "This card's information is used only for display within the app, and is not written to the card when scanning.",
 		"zh-Hans": "卡片资料只会在应用内显示，不会于扫瞄时写进卡片。",
 		"zh-Hant": "卡片資料只會在在程式內顯示，不會於掃瞄時寫進卡片。",
 		"zh-HK": "卡片資料只會於在程式內顯示，不會於掃瞄時寫入卡片。"
