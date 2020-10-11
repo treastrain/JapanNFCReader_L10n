@@ -90,7 +90,7 @@
 
 	"バス等均一運賃": {
 		"ja": "バス等均一運賃",
-		"en": "Flat Fare for Buses, etc.",
+		"en": "Flat-Rate Fare for Buses, etc.",
 		"zh-Hans": "公交车等的统一票价",
 		"zh-Hant": "公車等的統一車資",
 		"zh-HK": "巴士等的統一車費"
@@ -98,10 +98,10 @@
 
 	"バス等車載機": {
 		"ja": "バス等車載機",
-		"en": "On-board Equipment (Buses, etc.)",
-		"zh-Hans": "公交车等车载设备",
-		"zh-Hant": "公車等車載設備",
-		"zh-HK": "巴士等車載設備"
+		"en": "Buses and other vehicles",
+		"zh-Hans": "公交车等车辆",
+		"zh-Hant": "公車等車輛",
+		"zh-HK": "巴士等車輛"
 	},
 
 	"バス等精算": {
