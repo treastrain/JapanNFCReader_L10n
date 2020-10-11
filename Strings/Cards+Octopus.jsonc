@@ -2,34 +2,34 @@
 
 	"オクトパスカードのオフセットを変更": {
 		"ja": "オクトパスカードのオフセットを変更",
-		"en": "Change the offset of this Octopus card",
-		"zh-Hans": "更改此八达通的抵销金额",
-		"zh-Hant": "更改此八達通的抵銷金額",
-		"zh-HK": "更改此八達通的抵銷金額"
+		"en": "Change the convenience limit of this Octopus card",
+		"zh-Hans": "更改此八达通的备用限额",
+		"zh-Hant": "更改此八達通的備用限額",
+		"zh-HK": "更改此八達通的備用限額"
 	},
 
 	"オフセットを設定": {
 		"ja": "オフセットを設定",
-		"en": "Set the card offset",
-		"zh-Hans": "设定抵销金额",
-		"zh-Hant": "設定抵銷金額",
-		"zh-HK": "設定抵銷金額"
+		"en": "Set the convenience limit",
+		"zh-Hans": "设定备用限额",
+		"zh-Hant": "設定備用限額",
+		"zh-HK": "設定備用限額"
 	},
 
 	"このオクトパスカードにオフセットは設定されていません。": {
 		"ja": "このオクトパスカードにオフセットは設定されていません。",
-		"en": "This Octopus card has no offset.",
-		"zh-Hans": "此八达通没有抵销金额。",
-		"zh-Hant": "此八達通沒有抵銷金額。",
-		"zh-HK": "此八達通沒有抵銷金額。"
+		"en": "The convenience limit of this Octopus card has not been set.",
+		"zh-Hans": "此八达通未有设定备用限额。",
+		"zh-Hant": "此八達通未有設定備用限額。",
+		"zh-HK": "此八達通未有設定備用限額。"
 	},
 
 	"このオクトパスカードのオフセット": {
 		"ja": "このオクトパスカードのオフセット",
 		"en": "The offset of this Octopus card",
-		"zh-Hans": "此八达通的抵销金额是港币",
-		"zh-Hant": "此八達通的抵銷金額是港幣",
-		"zh-HK": "此八達通的抵銷金額是港幣"
+		"zh-Hans": "此八达通的备用限额是港币",
+		"zh-Hant": "此八達通的備用限額是港幣",
+		"zh-HK": "此八達通的備用限額是港幣"
 	}
 
 }
