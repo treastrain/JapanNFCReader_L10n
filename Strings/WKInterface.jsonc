@@ -3,33 +3,33 @@
 	"iCloud から読み込み中…": {
 		"ja": "iCloud から読み込み中…",
 		"en": "Loading from iCloud…",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "从 iCloud 加载中…",
+		"zh-Hant": "從 iCloud 載入中…",
+		"zh-HK": "從 iCloud 載入中…"
 	},
 
 	"iPhone から読み込み中…": {
 		"ja": "iPhone から読み込み中…",
 		"en": "Loading from your iPhone…",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "从您的 iPhone 加载中…",
+		"zh-Hant": "從您的 iPhone 載入中…",
+		"zh-HK": "從您的 iPhone 載入中…"
 	},
 
 	"iPhone に接続中…": {
 		"ja": "iPhone に接続中…",
 		"en": "Connecting to your iPhone…",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "正在连接到您的 iPhone…",
+		"zh-Hant": "正在連線到您的 iPhone…",
+		"zh-HK": "正在連線至您的 iPhone…"
 	},
 
 	"カード一覧": {
 		"ja": "カード一覧",
 		"en": "Recents",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "最近",
+		"zh-Hant": "最近",
+		"zh-HK": "最近"
 	},
 
 	"最終更新": {
