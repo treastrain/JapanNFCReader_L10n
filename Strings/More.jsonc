@@ -90,7 +90,7 @@
 
 	"残り試行回数の確認": {
 		"ja": "残り試行回数の確認",
-		"en": "Check the remaining of trials for PIN",
+		"en": "Check the number of remaining attempts",
 		"zh-Hans": "查询剩余尝试次数",
 		"zh-Hant": "查詢剩餘嘗試次數",
 		"zh-HK": "查詢剩餘嘗試次數"
