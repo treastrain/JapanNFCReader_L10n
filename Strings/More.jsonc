@@ -66,10 +66,10 @@
 
 	"運転免許証の暗証番号の残り試行回数 および マイナンバーカードのパスワードの残り試行回数を確認することができます。": {
 		"ja": "運転免許証の暗証番号の残り試行回数 および マイナンバーカードのパスワードの残り試行回数を確認することができます。",
-		"en": "You can check the remaining number of trials for the Password/PIN of Driver's Licence Card or Individual Number Card at Japan.",
-		"zh-Hans": "您可以查询驾驶执照密码/个人号码卡 PIN 码的剩余试用次数。",
-		"zh-Hant": "您可以查詢駕駛執照/個人號碼卡 PIN 碼的剩餘試用次數。",
-		"zh-HK": "您可以查詢駕駛執照/個人號碼卡 PIN 碼的剩餘試用次數。"
+		"en": "You can check the remaining attempts of your PIN/Password for your Driver's Licence Card/Individual Number Card",
+		"zh-Hans": "您可以查询驾驶执照密码/个人号码卡的密码/PIN 码的剩余尝试次数。",
+		"zh-Hant": "您可以查詢駕駛執照/個人號碼卡的密碼/PIN 碼的剩餘嘗試次數。",
+		"zh-HK": "您可以查詢駕駛執照/個人號碼卡的密碼/PIN 碼的剩餘嘗試次數。"
 	},
 
 	"広告非表示オプションの購入はこちらから行うことができます。": {
@@ -91,9 +91,9 @@
 	"残り試行回数の確認": {
 		"ja": "残り試行回数の確認",
 		"en": "Check the remaining of trials for PIN",
-		"zh-Hans": "查询剩余试用次数",
-		"zh-Hant": "查詢剩餘試用次數",
-		"zh-HK": "查詢剩餘試用次數"
+		"zh-Hans": "查询剩余尝试次数",
+		"zh-Hant": "查詢剩餘嘗試次數",
+		"zh-HK": "查詢剩餘嘗試次數"
 	},
 
 	"読み取った履歴をすべて削除しますか？この操作は取り消すことができません。": {
