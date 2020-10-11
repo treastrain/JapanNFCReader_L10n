@@ -35,8 +35,8 @@
 	"削除する": {
 		"ja": "削除する",
 		"en": "Delete",
-		"zh-Hans": "删除",
-		"zh-Hant": "刪除",
+		"zh-Hans": "移除",
+		"zh-Hant": "移除",
 		"zh-HK": "刪除"
 	},
 
@@ -59,9 +59,9 @@
 	"不明": {
 		"ja": "不明",
 		"en": "Unknown",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "不明",
+		"zh-Hant": "不明",
+		"zh-HK": "不明"
 	}
 
 }
