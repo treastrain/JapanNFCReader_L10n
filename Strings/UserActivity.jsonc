@@ -11,9 +11,9 @@
 	"スキャン開始": {
 		"ja": "スキャン開始",
 		"en": "Start scan",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "开始扫瞄",
+		"zh-Hant": "開始掃描",
+		"zh-HK": "開始掃描"
 	}
 
 }
