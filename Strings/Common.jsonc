@@ -59,10 +59,10 @@
 	"読み込み中": {
 		"ja": "読み込み中",
 		"en": "Loading",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
-	}
+		"zh-Hans": "加載中",
+		"zh-Hant": "載入中",
+		"zh-HK": "載入中"
+	},
 
 	"不明": {
 		"ja": "不明",
