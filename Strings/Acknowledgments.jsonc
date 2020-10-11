@@ -2,34 +2,34 @@
 
 	"そのほかのライブラリのライセンス条項は端末の設定に移動しました。": {
 		"ja": "そのほかのライブラリのライセンス条項は端末の設定に移動しました。",
-		"en": "The other library license terms have been moved to the device settings.",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"en": "Third-party library licenses have been moved to device settings.",
+		"zh-Hans": "第三方库的许可协议已移至装置设定",
+		"zh-Hant": "第三方函式庫的授權條款已移至裝置設定",
+		"zh-HK": "第三方函數庫的特許條款已移至裝置設定"
 	},
 
 	"ライブラリ": {
 		"ja": "ライブラリ",
 		"en": "Libraries",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "库",
+		"zh-Hant": "函數庫",
+		"zh-HK": "函式庫"
 	},
 
 	"交通系ICカードの駅名表示のほとんどは IC SFCard Fan にて公開されている情報を利用しています。作成に関わったすべての皆様に感謝いたします。本 App と IC SFCard Fan 作成・管理者様は一切関係ありません。": {
 		"ja": "交通系ICカードの駅名表示のほとんどは IC SFCard Fan にて公開されている情報を利用しています。作成に関わったすべての皆様に感謝いたします。本 App と IC SFCard Fan 作成・管理者様は一切関係ありません。",
-		"en": "Most of the station infomations on Transit IC cards are based that available on IC SFCard Fan. We appreciate all the people involved in the creation of this app and IC SFCard Fan. This app has nothing to do with the IC SFCard Fan creator/administrator.",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"en": "Most of the station names read from the Transit IC cards are based on information available from IC SFCard Fan. I'd like to thank everyone involved in this effort. This app is in no way affiliated with IC SFCard Fan.",
+		"zh-Hans": "大部份从IC交通卡读取的车站站名是基于IC SFCard Fan所提供的资料。我感谢所有人的努力。此应用程序与IC SFCard Fan没有任何联系。",
+		"zh-Hant": "大部份從IC交通卡讀取的車站站名是基於IC SFCard Fan所提供的資料。我感謝所有人的努力。此應用程式與IC SFCard Fan沒有任何聯繫。",
+		"zh-HK": "大部份從IC交通卡讀取的車站站名是基於IC SFCard Fan所提供的資料。我感謝所有人的努力。此應用程式與IC SFCard Fan沒有任何聯繫。"
 	},
 
 	"本 App のコア部分は GitHub にて公開しています。": {
 		"ja": "本 App のコア部分は GitHub にて公開しています。",
-		"en": "The core part of this app is open to the public on GitHub.",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"en": "The core library that powers this app is available to the public on GitHub.",
+		"zh-Hans": "此应用程式的核心部份在GitHub上向公众开放。",
+		"zh-Hant": "此應用程式的核心部份於GitHub上向公眾開放。",
+		"zh-HK": "此應用程式的核心部份在GitHub上向公眾開放。"
 	}
 
 }
