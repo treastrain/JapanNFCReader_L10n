@@ -98,10 +98,10 @@
 
 	"バス等車載機": {
 		"ja": "バス等車載機",
-		"en": "Buses and other vehicles",
-		"zh-Hans": "公交车等车辆",
-		"zh-Hant": "公車等車輛",
-		"zh-HK": "巴士等車輛"
+		"en": "Terminals on Buses, etc.",
+		"zh-Hans": "公交车等的终端机",
+		"zh-Hant": "公車等的終端機",
+		"zh-HK": "巴士等的終端機"
 	},
 
 	"バス等精算": {
@@ -138,7 +138,7 @@
 
 	"駅業務機器": {
 		"ja": "駅業務機器",
-		"en": "Station Operations Machine",
+		"en": "Station Equipment",
 		"zh-Hans": "车站车务设备",
 		"zh-Hant": "車站車務機",
 		"zh-HK": "車站車務設備"
@@ -146,15 +146,15 @@
 
 	"簡易改札機": {
 		"ja": "簡易改札機",
-		"en": "Simple Ticket Gate",
-		"zh-Hans": "簡易闸机",
-		"zh-Hant": "簡易驗票閘門",
-		"zh-HK": "簡易閘機"
+		"en": "Standalone Ticket Gate",
+		"zh-Hans": "獨立闸机",
+		"zh-Hant": "獨立驗票閘門",
+		"zh-HK": "獨立閘機"
 	},
 
 	"携帯端末": {
 		"ja": "携帯端末",
-		"en": "Mobile Terminal",
+		"en": "Portable Terminal",
 		"zh-Hans": "移动终端机",
 		"zh-Hant": "行動驗票機",
 		"zh-HK": "手提查票機"
@@ -210,7 +210,7 @@
 
 	"自動改札機出場": {
 		"ja": "自動改札機出場",
-		"en": "Exit from Automatic Ticket Gate",
+		"en": "Automatic Ticket Gate (Exit)",
 		"zh-Hans": "自動闸机出站",
 		"zh-Hant": "自動驗票閘門出站",
 		"zh-HK": "自動收費閘機出閘"
@@ -218,7 +218,7 @@
 
 	"自動券売機": {
 		"ja": "自動券売機",
-		"en": "Automatic Ticket Vending Machine",
+		"en": "Ticket Machine",
 		"zh-Hans": "自助售票机",
 		"zh-Hant": "自動售票機",
 		"zh-HK": "自動售票機"
@@ -242,7 +242,7 @@
 
 	"窓口出場": {
 		"ja": "窓口出場",
-		"en": "Travel Service Center",
+		"en": "Ticket Window",
 		"zh-Hans": "乘客服务中心",
 		"zh-Hant": "車站詢問處",
 		"zh-HK": "客務中心"
@@ -250,15 +250,15 @@
 
 	"窓口処理機（みどりの窓口）": {
 		"ja": "窓口処理機（みどりの窓口）",
-		"en": "Counter Service Machine (Green Booth)",
-		"zh-Hans": "柜台处理机（绿色窗口）",
-		"zh-Hant": "櫃檯處理機（綠色窗口）",
-		"zh-HK": "櫃檯處理機（綠色窗口）"
+		"en": "Ticket Machine (Ticket Office)",
+		"zh-Hans": "柜台处理机（乘客服务中心）",
+		"zh-Hant": "櫃檯處理機（車站詢問處）",
+		"zh-HK": "櫃檯處理機（客務中心）"
 	},
 
 	"窓口処理機（有人改札）": {
 		"ja": "窓口処理機（有人改札）",
-		"en": "Counter Processing Machine (Manned)",
+		"en": "Ticket Machine (Manned Gate)",
 		"zh-Hans": "柜台处理机（有人检票）",
 		"zh-Hant": "櫃檯處理機（有人驗票）",
 		"zh-HK": "櫃檯處理機（有人查票）"
@@ -266,7 +266,7 @@
 
 	"他社乗換自動改札機": {
 		"ja": "他社乗換自動改札機",
-		"en": "Transfer Ticket Gate",
+		"en": "Ticket Gate (Transfer)",
 		"zh-Hans": "自動闸机（换乘）",
 		"zh-Hant": "自動驗票閘門（轉乘）",
 		"zh-HK": "自動收費閘機（轉乘）"
@@ -274,7 +274,7 @@
 
 	"定期券発売機": {
 		"ja": "定期券発売機",
-		"en": "Commuter Pass Vending Machine",
+		"en": "Commuter Pass Machine",
 		"zh-Hans": "定期券售卖机",
 		"zh-Hant": "定期券售賣機",
 		"zh-HK": "定期券售賣機"
@@ -354,7 +354,7 @@
 
 	"入場券券売機": {
 		"ja": "入場券券売機",
-		"en": "Ticket Vending Machine",
+		"en": "Ticket Machine",
 		"zh-Hans": "售票机",
 		"zh-Hant": "售票機",
 		"zh-HK": "售票機"
