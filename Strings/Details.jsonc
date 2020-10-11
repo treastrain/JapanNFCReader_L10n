@@ -66,10 +66,7 @@
 
 	"支払い": {
 		"ja": "支払い",
-		"en": "Payment",
-		"zh-Hans": "支付",
-		"zh-Hant": "支付",
-		"zh-HK": "付款"
+		"en": "Purchase",
 	},
 
 	"情報": {
