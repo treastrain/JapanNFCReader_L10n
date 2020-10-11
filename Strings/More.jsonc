@@ -66,7 +66,7 @@
 
 	"運転免許証の暗証番号の残り試行回数 および マイナンバーカードのパスワードの残り試行回数を確認することができます。": {
 		"ja": "運転免許証の暗証番号の残り試行回数 および マイナンバーカードのパスワードの残り試行回数を確認することができます。",
-		"en": "You can check the number of remaining attempts of your PIN/Password for your Driver's Licence Card/Individual Number Card",
+		"en": "You can check the number of remaining attempts of your PIN/Password for your Driver's Licence/Individual Number Card.",
 		"zh-Hans": "您可以查询驾驶执照密码/个人号码卡的密码/PIN 码的剩余尝试次数。",
 		"zh-Hant": "您可以查詢駕駛執照/個人號碼卡的密碼/PIN 碼的剩餘嘗試次數。",
 		"zh-HK": "您可以查詢駕駛執照/個人號碼卡的密碼/PIN 碼的剩餘嘗試次數。"
