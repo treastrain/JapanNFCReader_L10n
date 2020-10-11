@@ -10,18 +10,18 @@
 
 	"FeliCa タグではないものが検出されました。": {
 		"ja": "FeliCa タグではないものが検出されました。",
-		"en": null,
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"en": "A non-FeliCa tag has been detected.",
+		"zh-Hans": "检测到非 FeliCa 的卡片。",
+		"zh-Hant": "偵測到非 FeliCa 的卡片。",
+		"zh-HK": "偵測到非 FeliCa 的卡片。"
 	},
 
 	"カードの種類を自動判別できませんでした。もしくは非対応のカードです。": {
 		"ja": "カードの種類を自動判別できませんでした。もしくは非対応のカードです。",
 		"en": "The card type could not be automatically detected, or unsupported card.",
 		"zh-Hans": "无法自动检测卡片类型或不支持此卡。",
-		"zh-Hant": "無法自動檢測卡片類型或不支持此卡。",
-		"zh-HK": "無法自動檢測卡片類型或不支援此卡。"
+		"zh-Hant": "無法自動偵測卡片類型或不支持此卡。",
+		"zh-HK": "無法自動偵測卡片類型或不支援此卡。"
 	},
 
 	"カードをかざす位置は iPhone の上部(背面カメラ付近)です。": {
@@ -43,9 +43,9 @@
 	"このカード": {
 		"ja": "このカード",
 		"en": "This card",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "此卡",
+		"zh-Hant": "此卡",
+		"zh-HK": "此卡"
 	},
 
 	"スキャン": {
@@ -83,9 +83,9 @@
 	"本デバイスは「リーダーモード対応NFC」に対応していないため、スキャン機能を利用することができません。": {
 		"ja": "本デバイスは「リーダーモード対応NFC」に対応していないため、スキャン機能を利用することができません。",
 		"en": "This device does not support \\\"NFC with reader mode\\\".",
-		"zh-Hans": "此设备不支持「读卡器模式的 NFC」。",
-		"zh-Hant": "此設備不支援「NFC 配備讀取模式」。",
-		"zh-HK": "此設備不支援「NFC 配備讀取模式」。"
+		"zh-Hans": "此设备不支持「NFC 读卡模式」。",
+		"zh-Hant": "此設備不支援「NFC 讀取模式」。",
+		"zh-HK": "此設備不支援「NFC 讀取模式」。"
 	}
 
 }
