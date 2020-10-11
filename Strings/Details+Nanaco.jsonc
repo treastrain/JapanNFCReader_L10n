@@ -3,16 +3,16 @@
 	"%@年3月末期限": {
 		"ja": "%@年3月末期限",
 		"en": "Expires at the end of March %@",
-		"zh-Hans": "%@年3月底到期",
-		"zh-Hant": "%@年3月底到期",
-		"zh-HK": "%@年3月底到期"
+		"zh-Hans": "%@ 年 3 月底到期",
+		"zh-Hant": "%@ 年 3 月底到期",
+		"zh-HK": "%@ 年 3 月底到期"
 	},
 
 	"nanaco番号": {
 		"ja": "nanaco番号",
 		"en": "nanaco No.",
-		"zh-Hans": "nanaco 号码",
-		"zh-Hant": "nanaco 號碼",
+		"zh-Hans": "nanaco 卡号",
+		"zh-Hant": "nanaco 卡號",
 		"zh-HK": "nanaco 號碼"
 	}
 
