@@ -3,9 +3,9 @@
 	"最後にスキャンしたカード": {
 		"ja": "最後にスキャンしたカード",
 		"en": "Latest Scanned Card",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "最新扫瞄卡片",
+		"zh-Hant": "最新掃瞄卡片",
+		"zh-HK": "最新掃瞄卡片"
 	}
 
 }
