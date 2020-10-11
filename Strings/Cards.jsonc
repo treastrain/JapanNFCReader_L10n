@@ -3,9 +3,9 @@
 	"iCloud を有効にすると、カードの読み取りに対応した他の端末での履歴が同期されます。": {
 		"ja": "iCloud を有効にすると、カードの読み取りに対応した他の端末での履歴が同期されます。",
 		"en": "If iCloud is enabled, data on other devices that support NFC card reading is synchronized.",
-		"zh-Hans": "若已开启 iCloud，其他支持读取 NFC 卡的装置上的历史数据会自动同步。",
-		"zh-Hant": "若已開啟 iCloud，其他支持讀取 NFC 卡的裝置上的歷史數據會自動同步。",
-		"zh-HK": "若已開啟 iCloud，其他支援讀取 NFC 卡的裝置上的歷史數據會自動同步。"
+		"zh-Hans": "若已开启 iCloud，其他支持读取 NFC 卡片的装置上的历史数据会自动同步。",
+		"zh-Hant": "若已開啟 iCloud，其他支持讀取 NFC 卡片的裝置上的歷史數據會自動同步。",
+		"zh-HK": "若已開啟 iCloud，其他支援讀取 NFC 卡片的裝置上的歷史數據會自動同步。"
 	},
 
 	"イメージカラー": {
@@ -91,25 +91,25 @@
 	"カラーと読み取り日時": {
 		"ja": "カラーと読み取り日時",
 		"en": "Card Color & Scanned Date",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "颜色及读取日期",
+		"zh-Hant": "顏色及讀取日期",
+		"zh-HK": "顏色及讀取日期"
 	},
 
 	"カラーのみ": {
 		"ja": "カラーのみ",
 		"en": "Card Color",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "卡片颜色",
+		"zh-Hant": "卡片顏色",
+		"zh-HK": "卡片顏色"
 	},
 
 	"このカード情報はアプリ内での表示等に使用されるもので、スキャンの際にカードに書き込まれることはありません。": {
 		"ja": "このカード情報はアプリ内での表示等に使用されるもので、スキャンの際にカードに書き込まれることはありません。",
 		"en": "This card information is used for display within the app and is not written to the card when scanning.",
-		"zh-Hans": "这里的卡片资料只会用于应用内显示，不会于扫描时写进卡片。",
-		"zh-Hant": "這裏的卡片資料只會用於在程式內顯示，不會於掃描時寫進卡片。",
-		"zh-HK": "這裏的卡片資料只會於在程式內顯示，不會於掃描時寫入卡片。"
+		"zh-Hans": "卡片资料只会在应用内显示，不会于扫描时写进卡片。",
+		"zh-Hant": "卡片資料只會在在程式內顯示，不會於掃描時寫進卡片。",
+		"zh-HK": "卡片資料只會於在程式內顯示，不會於掃描時寫入卡片。"
 	},
 
 	"スタイルを変更": {
@@ -131,30 +131,30 @@
 	"リストにないカラーにしたい場合は iOS 14 以降へアップデートしてください。": {
 		"ja": "リストにないカラーにしたい場合は iOS 14 以降へアップデートしてください。",
 		"en": "Please update to iOS 14 or later to set custom colors.",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "请更新到 iOS 14 或更高版本以设定自定义颜色。",
+		"zh-Hant": "請升級至 iOS 14 或以上版本以設定自訂顏色。",
+		"zh-HK": "請更新至 iOS 14 或以上版本以設定自訂顏色。"
 	},
 
 	"画像と読み取り日時": {
 		"ja": "画像と読み取り日時",
 		"en": "Card Image & Scanned Date",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "卡片图像及读取时间",
+		"zh-Hant": "卡片圖像及讀取日期",
+		"zh-HK": "卡片圖像及讀取日期"
 	},
 
 	"画像のみ": {
 		"ja": "画像のみ",
 		"en": "Card Image",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "卡片图像",
+		"zh-Hant": "卡片圖像",
+		"zh-HK": "卡片圖像"
 	},
 
 	"未設定": {
 		"ja": "未設定",
-		"en": "Not Set",
+		"en": "Not Configured",
 		"zh-Hans": "没有设定",
 		"zh-Hant": "沒有設定",
 		"zh-HK": "未設定"
@@ -162,7 +162,7 @@
 
 	"名称": {
 		"ja": "名称",
-		"en": "Display Name",
+		"en": "Name",
 		"zh-Hans": "名称",
 		"zh-Hant": "名稱",
 		"zh-HK": "名稱"
