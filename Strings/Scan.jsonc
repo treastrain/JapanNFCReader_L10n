@@ -11,25 +11,25 @@
 	"FeliCa タグではないものが検出されました。": {
 		"ja": "FeliCa タグではないものが検出されました。",
 		"en": "A non-FeliCa tag has been detected.",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "检测到非 FeliCa 的卡片。",
+		"zh-Hant": "偵測到非 FeliCa 的卡片。",
+		"zh-HK": "偵測到非 FeliCa 的卡片。"
 	},
 
 	"カードの種類を自動判別できませんでした。もしくは非対応のカードです。": {
 		"ja": "カードの種類を自動判別できませんでした。もしくは非対応のカードです。",
 		"en": "The card type could not be determined, or this card type is unsupported.",
 		"zh-Hans": "无法自动检测卡片类型或不支持此卡。",
-		"zh-Hant": "無法自動檢測卡片類型或不支持此卡。",
-		"zh-HK": "無法自動檢測卡片類型或不支援此卡。"
+		"zh-Hant": "無法自動偵測卡片類型或不支持此卡。",
+		"zh-HK": "無法自動偵測卡片類型或不支援此卡。"
 	},
 
 	"カードをかざす位置は iPhone の上部(背面カメラ付近)です。": {
 		"ja": "カードをかざす位置は iPhone の上部(背面カメラ付近)です。",
-		"en": "Hold the card under the top of your iPhone (near the rear camera).",
-		"zh-Hans": "把卡片放在 iPhone 的顶部（靠近后置镜头）。",
-		"zh-Hant": "把卡片放在 iPhone 的頂部（靠近後置鏡頭）。",
-		"zh-HK": "將卡片放在 iPhone 的頂部（靠近後置鏡頭）。"
+		"en": "Rest the top of your iPhone on the middle of the card.",
+		"zh-Hans": "将 iPhone 的顶部靠在卡片的中部上。",
+		"zh-Hant": "將 iPhone 頂端放在卡片中央。",
+		"zh-HK": "將 iPhone 頂端放在卡片中央。"
 	},
 
 	"カード情報を編集": {
@@ -43,9 +43,9 @@
 	"このカード": {
 		"ja": "このカード",
 		"en": "This Card",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "此卡",
+		"zh-Hant": "此卡",
+		"zh-HK": "此卡"
 	},
 
 	"スキャン": {
@@ -60,8 +60,8 @@
 		"ja": "スキャンした後に詳細を表示",
 		"en": "Show details after scanning",
 		"zh-Hans": "扫瞄后显示详细资料",
-		"zh-Hant": "掃後顯示詳細資料",
-		"zh-HK": "掃後顯示詳細資料"
+		"zh-Hant": "掃瞄後顯示詳細資料",
+		"zh-HK": "掃瞄後顯示詳細資料"
 	},
 
 	"スキャン機能は利用できません": {
@@ -83,9 +83,9 @@
 	"本デバイスは「リーダーモード対応NFC」に対応していないため、スキャン機能を利用することができません。": {
 		"ja": "本デバイスは「リーダーモード対応NFC」に対応していないため、スキャン機能を利用することができません。",
 		"en": "This device does not support \\\"NFC with Reader Mode\\\".",
-		"zh-Hans": "此设备不支持「读卡器模式的 NFC」。",
-		"zh-Hant": "此設備不支援「NFC 配備讀取模式」。",
-		"zh-HK": "此設備不支援「NFC 配備讀取模式」。"
+		"zh-Hans": "此设备不支持「配备读取模式的 NFC」。",
+		"zh-Hant": "此裝置不支援「兼容讀取模式的 NFC」。",
+		"zh-HK": "此裝置不支援「兼容讀取模式的 NFC」。"
 	}
 
 }

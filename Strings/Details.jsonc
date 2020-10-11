@@ -27,25 +27,25 @@
 	"チャージ": {
 		"ja": "チャージ",
 		"en": "Add Money",
-		"zh-Hans": "收费",
-		"zh-Hant": "收費",
-		"zh-HK": "收費"
+		"zh-Hans": "充值",
+		"zh-Hant": "加值",
+		"zh-HK": "增值"
 	},
 
 	"ポイントダウンロード": {
 		"ja": "ポイントダウンロード",
 		"en": "Point Downloaded",
-		"zh-Hans": "下载分数",
-		"zh-Hant": "下載分數",
-		"zh-HK": "下載分數"
+		"zh-Hans": "下载积分",
+		"zh-Hant": "下載積分",
+		"zh-HK": "下載積分"
 	},
 
 	"ポイント交換": {
 		"ja": "ポイント交換",
 		"en": "Point Exchange",
-		"zh-Hans": "交换分数",
-		"zh-Hant": "交換分數",
-		"zh-HK": "交換分數"
+		"zh-Hans": "交换积分",
+		"zh-Hant": "交換積分",
+		"zh-HK": "交換積分"
 	},
 
 	"メタデータ": {
@@ -67,9 +67,9 @@
 	"支払い": {
 		"ja": "支払い",
 		"en": "Purchase",
-		"zh-Hans": "购买",
-		"zh-Hant": "購買",
-		"zh-HK": "購買"
+		"zh-Hans": "消费",
+		"zh-Hant": "消費",
+		"zh-HK": "消費"
 	},
 
 	"情報": {
@@ -91,9 +91,9 @@
 	"読み込み中…": {
 		"ja": "読み込み中…",
 		"en": "Loading...",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "加載中…",
+		"zh-Hant": "載入中…",
+		"zh-HK": "載入中…"
 	},
 
 	"返金": {

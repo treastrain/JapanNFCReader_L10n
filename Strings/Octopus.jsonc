@@ -2,10 +2,10 @@
 
 	"オフセット未設定": {
 		"ja": "オフセット未設定",
-		"en": "No Offset",
-		"zh-Hans": "没有设定抵销金额",
-		"zh-Hant": "沒有設定抵銷金額",
-		"zh-HK": "沒有設定抵銷金額"
+		"en": "The convenience limit is not configured",
+		"zh-Hans": "未有设定备用限额",
+		"zh-Hant": "未有設定備用限額",
+		"zh-HK": "未有設定備用限額"
 	}
 
 }

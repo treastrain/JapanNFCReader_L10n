@@ -3,49 +3,49 @@
 	"Japan NFC Reader へようこそ": {
 		"ja": "Japan NFC Reader へようこそ",
 		"en": "Welcome to Japan NFC Reader",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "欢迎来到 Japan NFC Reader",
+		"zh-Hant": "歡迎來到 Japan NFC Reader",
+		"zh-HK": "歡迎來到 Japan NFC Reader"
 	},
 
 	"URL エラー": {
 		"ja": "URL エラー",
 		"en": "URL Error",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "URL 错误",
+		"zh-Hant": "URL 錯誤",
+		"zh-HK": "URL 錯誤"
 	},
 
 	"現在こちらから 利用規約とプライバシーポリシー を確認いただけません。ブラウザから利用規約とプライバシーポリシーをご確認ください。": {
 		"ja": "現在こちらから 利用規約とプライバシーポリシー を確認いただけません。ブラウザから利用規約とプライバシーポリシーをご確認ください。",
 		"en": "An error occurred while loading the page. Please review the Terms of Service and Privacy Policy from your browser.",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "加载网页时发生错误。请使用你的浏览器查阅我们的服务条款及隐私政策。",
+		"zh-Hant": "載入網頁時發生錯誤。請使用你的瀏覽器查閱我們的服務條款及隱私權政策。",
+		"zh-HK": "載入網頁時發生錯誤。請使用你的瀏覽器查閱我們的服務條款及私隱政策。"
 	},
 
 	"続ける": {
 		"ja": "続ける",
 		"en": "Continue",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "继续",
+		"zh-Hant": "繼續",
+		"zh-HK": "繼續"
 	},
 
 	"続けると、利用規約とプライバシーポリシーに同意したことになります。": {
 		"ja": "続けると、利用規約とプライバシーポリシーに同意したことになります。",
-		"en": "If you continue, you indicate that you agree to the Terms of Service and Privacy Policy.",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"en": "By continuing, you agree to the Terms of Service and Privacy Policy.",
+		"zh-Hans": "选择「继续」，即表示你同意服务条款及隐私政策。",
+		"zh-Hant": "藉由選擇「繼續」，將視為您已同意服務條款及隱私權政策之內容。",
+		"zh-HK": "藉由選擇「繼續」，將視為您已同意服務條款及私隱政策之內容。"
 	},
 
 	"利用規約とプライバシーポリシー": {
 		"ja": "利用規約とプライバシーポリシー",
 		"en": "Terms of Service and Privacy Policy",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "服务条款及隐私政策",
+		"zh-Hant": "服務條款及隱私權政策",
+		"zh-HK": "服務條款及私隱政策"
 	}
 
 }
