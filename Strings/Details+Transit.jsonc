@@ -64,6 +64,14 @@
 		"zh-HK": "補票"
 	},
 
+	"のりこし精算機": {
+		"ja": "のりこし精算機",
+		"en": "Fare Adjustment Machine",
+		"zh-Hans": "票价调整机",
+		"zh-Hant": "票價調整機",
+		"zh-HK": "票價調整機"
+	},
+
 	"バス等": {
 		"ja": "バス等",
 		"en": "Bus, etc.",
