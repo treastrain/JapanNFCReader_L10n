@@ -68,16 +68,16 @@
 		"ja": "IruCa（キッズIruCa）",
 		"en": "IruCa (Kids)",
 		"zh-Hans": "IruCa（儿童）",
-		"zh-Hant": "IruCa（小童）",
-		"zh-HK": "IruCa（兒童）"
+		"zh-Hant": "IruCa（兒童）",
+		"zh-HK": "IruCa（小童）"
 	},
 
 	"IruCa（グリーンIruCa）": {
 		"ja": "IruCa（グリーンIruCa）",
 		"en": "IruCa (Green)",
 		"zh-Hans": "IruCa（绿色）",
-		"zh-Hant": "IruCa（綠色IruCa）",
-		"zh-HK": "IruCa（綠色IruCa）"
+		"zh-Hant": "IruCa（綠色）",
+		"zh-HK": "IruCa（綠色）"
 	},
 
 	"IruCa（ゴールドIruCa）": {
@@ -187,9 +187,9 @@
 	"PASPY（アストラムライン）": {
 		"ja": "PASPY（アストラムライン）",
 		"en": "PASPY (Astram Line)",
-		"zh-Hans": "PASPY（广岛新交通1号线）",
-		"zh-Hant": "PASPY（廣島新交通1號線）",
-		"zh-HK": "PASPY（廣島新交通1號線）"
+		"zh-Hans": "PASPY（广岛新交通 1 号线）",
+		"zh-Hant": "PASPY（廣島新交通 1 號線）",
+		"zh-HK": "PASPY（廣島新交通 1 號線）"
 	},
 
 	"PASPY（トモテツバス）": {
@@ -243,9 +243,9 @@
 	"PASPY（中国JRバス）": {
 		"ja": "PASPY（中国JRバス）",
 		"en": "PASPY (Chūgoku JR Bus)",
-		"zh-Hans": "PASPY（中国JR巴士）",
-		"zh-Hant": "PASPY（中國JR巴士）",
-		"zh-HK": "PASPY（中國JR巴士）"
+		"zh-Hans": "PASPY（中国 JR 巴士）",
+		"zh-Hant": "PASPY（中國 JR 巴士）",
+		"zh-HK": "PASPY（中國 JR 巴士）"
 	},
 
 	"PASPY（中国バス）": {
@@ -331,16 +331,16 @@
 	"オクトパス（シニア）": {
 		"ja": "オクトパス（シニア）",
 		"en": "Octopus (Elder)",
-		"zh-Hans": "八达通（长者）",
-		"zh-Hant": "八達通（長者）",
+		"zh-Hans": "八达通（老年）",
+		"zh-Hant": "八達通（老人）",
 		"zh-HK": "八達通（長者）"
 	},
 
 	"オクトパス（小人）": {
 		"ja": "オクトパス（小人）",
 		"en": "Octopus (Child)",
-		"zh-Hans": "八达通（小童）",
-		"zh-Hant": "八達通（小童）",
+		"zh-Hans": "八达通（儿童）",
+		"zh-Hant": "八達通（兒童）",
 		"zh-HK": "八達通（小童）"
 	},
 
@@ -355,9 +355,9 @@
 	"くまモンのIC CARD": {
 		"ja": "くまモンのIC CARD",
 		"en": "Kumamon IC Card",
-		"zh-Hans": "熊本熊IC卡",
-		"zh-Hant": "熊本熊IC卡",
-		"zh-HK": "熊本熊IC卡"
+		"zh-Hans": "熊本熊 IC 卡",
+		"zh-Hant": "熊本熊 IC 卡",
+		"zh-HK": "熊本熊 IC 卡"
 	},
 
 	"でんでんnimoca": {
@@ -419,25 +419,25 @@
 	"交通系IC": {
 		"ja": "交通系IC",
 		"en": "Transit IC",
-		"zh-Hans": "交通系IC卡",
-		"zh-Hant": "交通系IC卡",
-		"zh-HK": "交通系IC卡"
+		"zh-Hans": "交通系 IC 卡",
+		"zh-Hant": "交通系 IC 卡",
+		"zh-HK": "交通系 IC 卡"
 	},
 
 	"大学生協ICプリペイド": {
 		"ja": "大学生協ICプリペイド",
 		"en": "Univ. CO-OP IC Prepaid",
-		"zh-Hans": "大学协会预付IC卡",
-		"zh-Hant": "大學協會預付IC卡",
-		"zh-HK": "大學協會儲值IC卡"
+		"zh-Hans": "大学协会预付 IC 卡",
+		"zh-Hant": "大學協會預付 IC 卡",
+		"zh-HK": "大學協會儲值 IC 卡"
 	},
 
 	"地方交通系IC": {
 		"ja": "地方交通系IC",
 		"en": "Local Transit IC",
-		"zh-Hans": "地方交通系IC卡",
-		"zh-Hant": "地方交通系IC卡",
-		"zh-HK": "地方交通系IC卡"
+		"zh-Hans": "地方交通系 IC 卡",
+		"zh-Hant": "地方交通系 IC 卡",
+		"zh-HK": "地方交通系 IC 卡"
 	}
 
 }
