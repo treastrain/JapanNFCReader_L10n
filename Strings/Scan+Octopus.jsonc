@@ -1,19 +1,19 @@
 {
 
 	"https://www.octopus.com.hk/en/consumer/customer-service/faq/get-your-octopus/about-octopus.html#3532": {
-		"ja": "https://www.octopus.com.hk/en/consumer/customer-service/faq/get-your-octopus/about-octopus.html#3532",
-		"en": "https://www.octopus.com.hk/en/consumer/customer-service/faq/get-your-octopus/about-octopus.html#3532",
-		"zh-Hans": "https://www.octopus.com.hk/sc/consumer/customer-service/faq/get-your-octopus/about-octopus.html#1977",
-		"zh-Hant": "https://www.octopus.com.hk/tc/consumer/customer-service/faq/get-your-octopus/about-octopus.html#1976",
-		"zh-HK": "https://www.octopus.com.hk/tc/consumer/customer-service/faq/get-your-octopus/about-octopus.html#1976"
+		"ja": "https://www.octopus.com.hk/en/consumer/customer-service/faq/get-your-octopus/octopus-types.html#1996",
+		"en": "https://www.octopus.com.hk/en/consumer/customer-service/faq/get-your-octopus/octopus-types.html#1996",
+		"zh-Hans": "https://www.octopus.com.hk/sc/consumer/customer-service/faq/get-your-octopus/octopus-types.html#1998",
+		"zh-Hant": "https://www.octopus.com.hk/tc/consumer/customer-service/faq/get-your-octopus/octopus-types.html#1997",
+		"zh-HK": "https://www.octopus.com.hk/tc/consumer/customer-service/faq/get-your-octopus/octopus-types.html#1997"
 	},
 
 	"オクトパスカードが読み取られました。オクトパスカードはカードの発行日によってオフセットが異なります。このカードのオフセットを選択してください。この設定は後から変更できます。": {
 		"ja": "オクトパスカードが読み取られました。オクトパスカードはカードの発行日によってオフセットが異なります。このカードのオフセットを選択してください。この設定は後から変更できます。",
-		"en": "Octopus card has been read. Select an offset.",
-		"zh-Hans": "八达通已被读取。请选择抵销金额。",
-		"zh-Hant": "八達通已被讀取。請選擇抵銷金額。",
-		"zh-HK": "八達通已被讀取。請選擇抵抵銷金額。"
+		"en": "Octopus card has been read. Please select the convenience limit.",
+		"zh-Hans": "八达通已被读取。请选择备用限额。",
+		"zh-Hant": "八達通已被讀取。請選擇備用限額。",
+		"zh-HK": "八達通已被讀取。請選擇抵備用限額。"
 	},
 
 	"詳しい情報…": {
