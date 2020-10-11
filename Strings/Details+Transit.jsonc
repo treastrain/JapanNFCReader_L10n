@@ -259,9 +259,9 @@
 	"窓口処理機（有人改札）": {
 		"ja": "窓口処理機（有人改札）",
 		"en": "Ticket Machine (Manned Gate)",
-		"zh-Hans": "柜台处理机（有人检票）",
-		"zh-Hant": "櫃檯處理機（有人驗票）",
-		"zh-HK": "櫃檯處理機（有人查票）"
+		"zh-Hans": "柜台处理机（检票員）",
+		"zh-Hant": "櫃檯處理機（驗票員）",
+		"zh-HK": "櫃檯處理機（查票員）"
 	},
 
 	"他社乗換自動改札機": {
@@ -314,7 +314,7 @@
 
 	"入場・出場（バス等乗継割引）": {
 		"ja": "入場・出場（バス等乗継割引）",
-		"en": "Enter・Exit (Interchange Discount for Buses, etc.)",
+		"en": "Enter・Exit (Transfer Discount for Buses, etc.)",
 		"zh-Hans": "上车・下车（公交车等转乘优惠）",
 		"zh-Hant": "上車・下車（公車等轉乘優惠）",
 		"zh-HK": "上車・落車（巴士等轉乘優惠）"
@@ -322,7 +322,7 @@
 
 	"入場・出場（乗継割引）": {
 		"ja": "入場・出場（乗継割引）",
-		"en": "Enter・Exit (Interchange Discount)",
+		"en": "Enter・Exit (Transfer Discount)",
 		"zh-Hans": "入站・出站（转乘优惠）",
 		"zh-Hant": "入站・出站（轉乘優惠）",
 		"zh-HK": "入閘・出閘（轉乘優惠）"
