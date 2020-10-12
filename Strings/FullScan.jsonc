@@ -27,9 +27,9 @@
 	"フルスキャンには時間がかかる場合があります。iOS 側の制約により読み取り可能な FeliCa システムコードに制限があります。各 FeliCa サービスコードの最大読み取りブロック数は36です。": {
 		"ja": "フルスキャンには時間がかかる場合があります。iOS 側の制約により読み取り可能な FeliCa システムコードに制限があります。各 FeliCa サービスコードの最大読み取りブロック数は36です。",
 		"en": "Full Scan may take some time. There are restrictions on readable FeliCa card data due to iOS limitations. The maximum number of read blocks for each FeliCa service code is 36.",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "完整扫瞄可能需要一些时间。可读取的 FeliCa 数据受到 iOS 所限制。每个 FeliCa 服务代码可读取的最大块数为 36。",
+		"zh-Hant": "完整掃瞄可能需要一段時間。可讀取的 FeliCa 數據受到 iOS 所限制。每個 FeliCa 服務代碼可讀取的最大塊數為 36。",
+		"zh-HK": "完整掃瞄可能需要一段時間。可讀取的 FeliCa 數據受到 iOS 所限制。每個 FeliCa 服務代碼可讀取的最大塊數為 36。"
 	},
 
 	"フルスキャン結果": {
