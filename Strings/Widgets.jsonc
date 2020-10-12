@@ -3,9 +3,9 @@
 	"最後にスキャンしたカードまたは指定したカードの残高を表示します。": {
 		"ja": "最後にスキャンしたカードまたは指定したカードの残高を表示します。",
 		"en": "See the balance of the last card scanned or the specified card.",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "查阅最新扫瞄的卡片或指定卡片的余额",
+		"zh-Hant": "查閱最新掃瞄的卡片或指定卡片的餘額",
+		"zh-HK": "查閱最新掃瞄的卡片或指定卡片的餘額"
 	}
 
 }

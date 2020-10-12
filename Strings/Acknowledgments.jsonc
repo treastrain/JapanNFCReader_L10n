@@ -35,17 +35,17 @@
 	"本 App のローカライズ（翻訳）はオープンソースコミュニティによって行われています。文言の修正や翻訳の追加などはこちらから提案することができます。": {
 		"ja": "本 App のローカライズ（翻訳）はオープンソースコミュニティによって行われています。文言の修正や翻訳の追加などはこちらから提案することができます。",
 		"en": "This app is localized (translated) by the open source community on GitHub. You can suggest corrections and additional translations here.",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "此应用程序由 GitHub 上的开源社群负责本地化（翻译）。您可以在此提出更正及建议其他译法。",
+		"zh-Hant": "此應用程式由 GitHub 上的開源社群負責本地化（翻譯）。您可以在此提出更正及建議其他譯法。",
+		"zh-HK": "此應用程式由 GitHub 上的開源社群負責本地化（翻譯）。您可以在此提出更正及建議其他譯法。"
 	},
 
 	"翻訳に協力する": {
 		"ja": "翻訳に協力する",
 		"en": "Contribute Translations",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "协助我们翻译",
+		"zh-Hant": "協助我們翻譯",
+		"zh-HK": "協助我們翻譯"
 	}
 
 }

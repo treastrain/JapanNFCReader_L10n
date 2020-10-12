@@ -107,9 +107,9 @@
 	"返品": {
 		"ja": "返品",
 		"en": "Returned",
-		"zh-Hans": null,
-		"zh-Hant": null,
-		"zh-HK": null
+		"zh-Hans": "退货",
+		"zh-Hant": "退貨",
+		"zh-HK": "退貨"
 	},
 
 	"利用履歴": {

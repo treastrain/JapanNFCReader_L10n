@@ -59,17 +59,17 @@
 	"のりこし精算": {
 		"ja": "のりこし精算",
 		"en": "Fare Adjustment",
-		"zh-Hans": "补票",
-		"zh-Hant": "補票",
-		"zh-HK": "補票"
+		"zh-Hans": "票价调整",
+		"zh-Hant": "車資調整",
+		"zh-HK": "車費調整"
 	},
 
 	"のりこし精算機": {
 		"ja": "のりこし精算機",
 		"en": "Fare Adjustment Machine",
 		"zh-Hans": "票价调整机",
-		"zh-Hant": "票價調整機",
-		"zh-HK": "票價調整機"
+		"zh-Hant": "車資調整機",
+		"zh-HK": "車費調整機"
 	},
 
 	"バス等": {
@@ -108,8 +108,8 @@
 		"ja": "バス等精算",
 		"en": "Adjustment (Buses, etc.)",
 		"zh-Hans": "票价调整（公交车等）",
-		"zh-Hant": "票價調整（公車等）",
-		"zh-HK": "票價調整（巴士等）"
+		"zh-Hant": "車資調整（公車等）",
+		"zh-HK": "車費調整（巴士等）"
 	},
 
 	"ビューアルッテ端末": {
@@ -195,9 +195,9 @@
 	"磁気券精算": {
 		"ja": "磁気券精算",
 		"en": "Ticket Adjustment",
-		"zh-Hans": "补票",
-		"zh-Hant": "補票",
-		"zh-HK": "補票"
+		"zh-Hans": "票价调整",
+		"zh-Hant": "票價調整",
+		"zh-HK": "票價調整"
 	},
 
 	"自動改札機": {
