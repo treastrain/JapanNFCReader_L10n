@@ -30,19 +30,19 @@
 		"zh-Hans": "此应用程式的核心部份在 GitHub 上向公众开放。",
 		"zh-Hant": "此應用程式的核心部份於 GitHub 上向公眾開放。",
 		"zh-HK": "此應用程式的核心部份在 GitHub 上向公眾開放。"
-	}
+	},
 
 	"本 App のローカライズ（翻訳）はオープンソースコミュニティによって行われています。文言の修正や翻訳の追加などはこちらから提案することができます。": {
 		"ja": "本 App のローカライズ（翻訳）はオープンソースコミュニティによって行われています。文言の修正や翻訳の追加などはこちらから提案することができます。",
-		"en": null,
+		"en": "This app is localized (translated) by the open source community on GitHub. You can suggest corrections and additional translations here.",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
-	}
+	},
 
 	"翻訳に協力する": {
 		"ja": "翻訳に協力する",
-		"en": "Help us to translate the app",
+		"en": "Contribute Translations",
 		"zh-Hans": null,
 		"zh-Hant": null,
 		"zh-HK": null
