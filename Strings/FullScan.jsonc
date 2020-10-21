@@ -8,12 +8,36 @@
 		"zh-HK": "如上圖所示，將 iPhone 放在卡片的下半部分。整個過程需時大約2分鐘完成。"
 	},
 
+	"XMLファイル (.xml)": {
+		"ja": "XMLファイル (.xml)",
+		"en": "XML File (.xml)",
+		"zh-Hans": "XML 档案 (.xml)",
+		"zh-Hant": "XML 檔案 (.xml)",
+		"zh-HK": "XML 檔案 (.xml)"
+	},
+
 	"スキャンの後、広告が表示されます。": {
 		"ja": "スキャンの後、広告が表示されます。",
 		"en": "After the scan, an ad will be displayed.",
 		"zh-Hans": "扫瞄完毕后会显示广告。",
 		"zh-Hant": "掃瞄完畢後會顯示廣告。",
 		"zh-HK": "掃瞄完畢後會顯示廣告。"
+	},
+
+	"テキスト": {
+		"ja": "テキスト",
+		"en": "Text",
+		"zh-Hans": "文字",
+		"zh-Hant": "文字",
+		"zh-HK": "文字"
+	},
+
+	"テキストファイル (.txt)": {
+		"ja": "テキストファイル (.txt)",
+		"en": "Text File (.txt)",
+		"zh-Hans": "文字档案 (.txt)",
+		"zh-Hant": "文字檔案 (.txt)",
+		"zh-HK": "文字檔案 (.txt)"
 	},
 
 	"フルスキャン": {
@@ -46,6 +70,14 @@
 		"zh-Hans": "完整扫瞄记录",
 		"zh-Hant": "完整掃瞄記錄",
 		"zh-HK": "完整掃瞄記錄"
+	},
+
+	"書き出す形式を選択": {
+		"ja": "書き出す形式を選択",
+		"en": "Select export format",
+		"zh-Hans": "选择汇出格式",
+		"zh-Hant": "選擇匯出格式",
+		"zh-HK": "選擇匯出格式"
 	},
 
 	"接続エラーです。もう一度やり直してください。": {
