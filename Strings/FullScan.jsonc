@@ -3,17 +3,17 @@
 	"iPhone の背面カメラ付近に、カードの下半分を隠すように置いてください。この表示が切り替わるまで最大で1分かかる場合があります。": {
 		"ja": "iPhone の背面カメラ付近に、カードの下半分を隠すように置いてください。この表示が切り替わるまで最大で1分かかる場合があります。",
 		"en": "Rest your iPhone on the bottom half of the card, as shown above. This process may take up to one minute to complete.",
-		"zh-Hans": "如上图所示，把 iPhone 放在卡片的下半部分。整个过程需时大约2分钟完成。",
-		"zh-Hant": "如上圖所示，把 iPhone 放在卡片的下半部分。整個過程需時大約2分鐘完成。",
-		"zh-HK": "如上圖所示，將 iPhone 放在卡片的下半部分。整個過程需時大約2分鐘完成。"
+		"zh-Hans": "如图所示，将 iPhone 置于卡片下半部分上。整个过程可能需时大约2分钟完成。",
+		"zh-Hant": "將 iPhone 置於卡片的下半部（如上所示）。整個過程或需時大約2分鐘完成。",
+		"zh-HK": "將 iPhone 放於卡的下半部分（如上圖所示）。整個過程或需時大約2分鐘完成。"
 	},
 
 	"XMLファイル (.xml)": {
-		"ja": "XMLファイル (.xml)",
+		"ja": "XMLファイル（.xml）",
 		"en": "XML File (.xml)",
-		"zh-Hans": "XML 档案 (.xml)",
-		"zh-Hant": "XML 檔案 (.xml)",
-		"zh-HK": "XML 檔案 (.xml)"
+		"zh-Hans": "XML 文件（.xml）",
+		"zh-Hant": "XML 檔案（.xml）",
+		"zh-HK": "XML 檔案（.xml）"
 	},
 
 	"スキャンの後、広告が表示されます。": {
@@ -27,17 +27,17 @@
 	"テキスト": {
 		"ja": "テキスト",
 		"en": "Text",
-		"zh-Hans": "文字",
+		"zh-Hans": "文本",
 		"zh-Hant": "文字",
 		"zh-HK": "文字"
 	},
 
 	"テキストファイル (.txt)": {
-		"ja": "テキストファイル (.txt)",
+		"ja": "テキストファイル（.txt）",
 		"en": "Text File (.txt)",
-		"zh-Hans": "文字档案 (.txt)",
-		"zh-Hant": "文字檔案 (.txt)",
-		"zh-HK": "文字檔案 (.txt)"
+		"zh-Hans": "文本文件（.txt）",
+		"zh-Hant": "文字檔（.txt）",
+		"zh-HK": "文字檔（.txt）"
 	},
 
 	"フルスキャン": {
@@ -75,32 +75,32 @@
 	"書き出す形式を選択": {
 		"ja": "書き出す形式を選択",
 		"en": "Select export format",
-		"zh-Hans": "选择汇出格式",
-		"zh-Hant": "選擇匯出格式",
-		"zh-HK": "選擇匯出格式"
+		"zh-Hans": "选择导出格式",
+		"zh-Hant": "選擇輸出格式",
+		"zh-HK": "選擇輸出格式"
 	},
 
 	"接続エラーです。もう一度やり直してください。": {
 		"ja": "接続エラーです。もう一度やり直してください。",
 		"en": "Connection Error. Please try again.",
-		"zh-Hans": "连接错误。请重试。",
-		"zh-Hant": "連接錯誤。請重試。",
+		"zh-Hans": "连接错误。请再试。",
+		"zh-Hant": "連接錯誤。請重新嘗試。",
 		"zh-HK": "連接錯誤。請重試。"
 	},
 
 	"読み取り中…\\n カードを iPhone から離さないでください。": {
 		"ja": "読み取り中…\\n カードを iPhone から離さないでください。",
 		"en": "Reading…\\n Keep your iPhone resting on the card.",
-		"zh-Hans": "读取中…\\n 将 iPhone 放在卡片上保持不动。",
+		"zh-Hans": "读取中…\\n 将 iPhone 放在卡片上，不要移开。",
 		"zh-Hant": "讀取中…\\n 將 iPhone 放在卡片上保持不動。",
-		"zh-HK": "讀取中…\\n 將 iPhone 放在卡片上保持不動。"
+		"zh-HK": "讀取中…\\n 將 iPhone 放在卡片上，且不要移動。"
 	},
 
 	"非対応のカードです。": {
 		"ja": "非対応のカードです。",
 		"en": "This card is not supported.",
 		"zh-Hans": "不支持此卡片。",
-		"zh-Hant": "不支持此卡。",
+		"zh-Hant": "不支援此卡。",
 		"zh-HK": "不支援此卡片。"
 	},
 
