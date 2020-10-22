@@ -2,10 +2,10 @@
 
 	"iPhone の背面カメラ付近に、カードの下半分を隠すように置いてください。この表示が切り替わるまで最大で1分かかる場合があります。": {
 		"ja": "iPhone の背面カメラ付近に、カードの下半分を隠すように置いてください。この表示が切り替わるまで最大で1分かかる場合があります。",
-		"en": "Rest your iPhone on the bottom half of the card, as shown above. This process may take up to one minute to complete.",
-		"zh-Hans": "如图所示，将 iPhone 置于卡片下半部分上。整个过程可能需时大约2分钟完成。",
-		"zh-Hant": "將 iPhone 置於卡片的下半部（如上所示）。整個過程或需時大約2分鐘完成。",
-		"zh-HK": "將 iPhone 放於卡的下半部分（如上圖所示）。整個過程或需時大約2分鐘完成。"
+		"en": "Rest your iPhone on the bottom half of the card, as shown above. This process could take up to a minute to complete.",
+		"zh-Hans": "如图所示，将 iPhone 置于卡片下半部分上。这个过程可能需要一分钟才能完成。",
+		"zh-Hant": "將 iPhone 置於卡片的下半部（如上所示）。此程序可能要一分鐘才能完成。",
+		"zh-HK": "將 iPhone 放於卡的下半部分（如上圖所示）。過程可能需時一分鐘才能完成。"
 	},
 
 	"XMLファイル (.xml)": {
