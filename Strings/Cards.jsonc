@@ -3,9 +3,9 @@
 	"iCloud を有効にすると、カードの読み取りに対応した他の端末での履歴が同期されます。": {
 		"ja": "iCloud を有効にすると、カードの読み取りに対応した他の端末での履歴が同期されます。",
 		"en": "If iCloud is enabled, data on other devices that support NFC card reading is synchronized.",
-		"zh-Hans": "若已开启 iCloud，其他支持读取 NFC 卡片的装置上的历史数据会自动同步。",
-		"zh-Hant": "若已開啟 iCloud，其他支持讀取 NFC 卡片的裝置上的歷史數據會自動同步。",
-		"zh-HK": "若已開啟 iCloud，其他支援讀取 NFC 卡片的裝置上的歷史數據會自動同步。"
+		"zh-Hans": "若已打开 iCloud，其他支持读取 NFC 卡片的设备上的历史记录将会自动同步。",
+		"zh-Hant": "若已開啟 iCloud，其他支援讀取 NFC 卡片的裝置上的歷史記錄就會自動同步。",
+		"zh-HK": "若已開啟 iCloud，其他支援讀取 NFC 卡片的裝置上的歷史記錄將會自動同步。"
 	},
 
 	"イメージカラー": {
@@ -52,7 +52,7 @@
 		"ja": "カードのイメージを選択",
 		"en": "Select Image",
 		"zh-Hans": "选择图像",
-		"zh-Hant": "選擇圖像",
+		"zh-Hant": "選取圖像",
 		"zh-HK": "選擇圖像"
 	},
 
@@ -60,7 +60,7 @@
 		"ja": "カードの色を選択",
 		"en": "Select Color",
 		"zh-Hans": "选择颜色",
-		"zh-Hant": "選擇顏色",
+		"zh-Hant": "選取顏色",
 		"zh-HK": "選擇顏色"
 	},
 
@@ -83,7 +83,7 @@
 	"カスタム": {
 		"ja": "カスタム",
 		"en": "Custom",
-		"zh-Hans": "自定义",
+		"zh-Hans": "自定",
 		"zh-Hant": "自訂",
 		"zh-HK": "自訂"
 	},
@@ -116,7 +116,7 @@
 		"ja": "このカード情報はアプリ内での表示等に使用されるもので、スキャンの際にカードに書き込まれることはありません。",
 		"en": "The card options here are used only for display within the app, and will not be written to the card when scanning.",
 		"zh-Hans": "卡片选项只会用于在应用内显示，不会于扫瞄时写进卡片。",
-		"zh-Hant": "卡片選項只會用於在程式內顯示，不會於掃瞄時寫進卡片。",
+		"zh-Hant": "卡片選項只會用於在程式內顯示，不會於掃瞄時寫入卡片。",
 		"zh-HK": "卡片選項只會用作在程式內顯示，不會於掃瞄時寫入卡片。"
 	},
 
@@ -139,7 +139,7 @@
 	"リストにないカラーにしたい場合は iOS 14 以降へアップデートしてください。": {
 		"ja": "リストにないカラーにしたい場合は iOS 14 以降へアップデートしてください。",
 		"en": "Please update to iOS 14 or later to set custom colors.",
-		"zh-Hans": "请更新到 iOS 14 或更高版本以设置自定义颜色。",
+		"zh-Hans": "请更新到 iOS 14 或更高版本以设置自定颜色。",
 		"zh-Hant": "請升級至 iOS 14 或以上版本以設定自訂顏色。",
 		"zh-HK": "請更新至 iOS 14 或以上版本以設定自訂顏色。"
 	},
@@ -163,8 +163,8 @@
 	"未設定": {
 		"ja": "未設定",
 		"en": "Not Configured",
-		"zh-Hans": "未有设置",
-		"zh-Hant": "未有設定",
+		"zh-Hans": "没有设置",
+		"zh-Hant": "尚未設定",
 		"zh-HK": "未有設定"
 	},
 
