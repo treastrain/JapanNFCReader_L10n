@@ -3,8 +3,8 @@
 	"オフセット未設定": {
 		"ja": "オフセット未設定",
 		"en": "The convenience limit is not configured",
-		"zh-Hans": "未有设定备用限额",
-		"zh-Hant": "未有設定備用限額",
+		"zh-Hans": "没有设置备用限额",
+		"zh-Hant": "尚未設定備用限額",
 		"zh-HK": "未有設定備用限額"
 	}
 
