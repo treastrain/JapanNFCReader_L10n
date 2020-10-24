@@ -11,8 +11,8 @@
 	"コピーしました": {
 		"ja": "コピーしました",
 		"en": "Copied!",
-		"zh-Hans": "已复制",
-		"zh-Hant": "已複製",
+		"zh-Hans": "已拷贝",
+		"zh-Hant": "已拷貝",
 		"zh-HK": "已複製"
 	},
 
@@ -51,8 +51,8 @@
 	"削除する": {
 		"ja": "削除する",
 		"en": "Delete",
-		"zh-Hans": "移除",
-		"zh-Hant": "移除",
+		"zh-Hans": "删除",
+		"zh-Hant": "刪除",
 		"zh-HK": "刪除"
 	},
 
@@ -67,7 +67,7 @@
 	"謝辞": {
 		"ja": "謝辞",
 		"en": "Acknowledgments",
-		"zh-Hans": "鸣谢",
+		"zh-Hans": "表彰",
 		"zh-Hant": "鳴謝",
 		"zh-HK": "鳴謝"
 	},
@@ -75,16 +75,16 @@
 	"読み込み中": {
 		"ja": "読み込み中",
 		"en": "Loading",
-		"zh-Hans": "加載中",
-		"zh-Hant": "載入中",
-		"zh-HK": "載入中"
+		"zh-Hans": "正在载入",
+		"zh-Hant": "正在載入",
+		"zh-HK": "正在載入"
 	},
 
 	"不明": {
 		"ja": "不明",
 		"en": "Unknown",
-		"zh-Hans": "不明",
-		"zh-Hant": "不明",
+		"zh-Hans": "未知",
+		"zh-Hant": "未知",
 		"zh-HK": "不明"
 	}
 
