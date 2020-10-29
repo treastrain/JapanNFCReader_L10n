@@ -16,6 +16,14 @@
 		"zh-HK": "偵測到非 FeliCa 的卡片。"
 	},
 
+	"Web サイトを確認する": {
+		"ja": "Web サイトを確認する",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
+	},
+
 	"カードの種類を自動判別できませんでした。もしくは非対応のカードです。": {
 		"ja": "カードの種類を自動判別できませんでした。もしくは非対応のカードです。",
 		"en": "The card type could not be determined, or this card type is unsupported.",
@@ -46,6 +54,14 @@
 		"zh-Hans": "此卡",
 		"zh-Hant": "此卡",
 		"zh-HK": "此卡"
+	},
+
+	"このデバイスはカードの読み取りに対応していません": {
+		"ja": "このデバイスはカードの読み取りに対応していません",
+		"en": null,
+		"zh-Hans": null,
+		"zh-Hant": null,
+		"zh-HK": null
 	},
 
 	"スキャン": {
