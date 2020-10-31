@@ -10,7 +10,7 @@
 
 	"フルバージョンの App ではカードに記録されている利用履歴も確認できます。": {
 		"ja": "フルバージョンの App ではカードに記録されている利用履歴も確認できます。",
-		"en": "You can check the transaction history on the card in the full app.",
+		"en": "You can check the transaction history of the card in the full app.",
 		"zh-Hans": "您可于完整的 App 内查询卡片上的交易记录。",
 		"zh-Hant": "您可於完整的 App 內查詢卡片上的交易記錄。",
 		"zh-HK": "您可於完整的 App 內查詢卡片上的交易記錄。"
@@ -18,10 +18,10 @@
 
 	"金属製の机の上やケース・バンパーを装着している場合、電波干渉のために正しく読み取れない場合があります。\\nイヤホンや充電等のためにケーブルを接続している場合、読み取りが完了しない可能性があります。": {
 		"ja": "金属製の机の上やケース・バンパーを装着している場合、電波干渉のために正しく読み取れない場合があります。\\nイヤホンや充電等のためにケーブルを接続している場合、読み取りが完了しない可能性があります。",
-		"en": "If you have a metal desk or you use a metal case on your iPhone, scanning may be affected due to wireless interference.\\nIf your iPhone is connected to a cable, scanning may not be able to complete.",
-		"zh-Hans": "如果您的桌子是金属制或您的 iPhone 装有金属保护壳，扫瞄可能会受无线干扰影响。\\n如果您的 iPhone 正在连接闪电条线缆或配件，扫瞄可能无法完成。",
-		"zh-Hant": "若您的桌子是金屬製或您的 iPhone 裝有金屬保護殼，掃瞄可能會受無線干擾影響。\\n若您的 iPhone 正在連接 Lightning 連接線或配件，掃瞄可能無法完成。",
-		"zh-HK": "若您的桌子是金屬製或您在 iPhone 上使用金屬保護殼，掃瞄可能會受無線干擾影響。\\n若您的 iPhone 正在連接 Lightning 連接線或配件，掃瞄可能無法完成。"
+		"en": "Card scanning may be unexpectedly interrupted due to factors such as wireless interference.\\nAvoid scanning on or near metal objects (including with metal bumpers or cases), devices that emit strong radio waves, or induce magnetic currents.",
+		"zh-Hans": "如果您的桌子是金属制或您的 iPhone 装有金属保护壳，扫瞄可能会受无线干扰影响。\\n在充电期间，扫瞄可能无法完成。",
+		"zh-Hant": "若您的桌子是金屬製或您的 iPhone 裝有金屬保護殼，掃瞄可能會受無線干擾影響。\\n在充電期間，掃瞄可能無法完成。",
+		"zh-HK": "若您的桌子是金屬製或您在 iPhone 上使用金屬保護殼，掃瞄可能會受無線干擾影響。\\n\在充電期間，掃瞄可能無法完成。"
 	},
 
 	"使い方": {
