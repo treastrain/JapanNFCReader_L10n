@@ -14,4 +14,4 @@ jobs:
     - name: Show Swift version
       run: swift --version
     - name: Run
-      run: swift run -v
+      run: swift run -v --package-path Tools/Checker
