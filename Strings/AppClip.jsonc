@@ -21,7 +21,7 @@
 		"en": "Card scanning may be unexpectedly interrupted due to factors such as wireless interference.\\nAvoid scanning on or near metal objects (including with metal bumpers or cases), devices that emit strong radio waves, or induce magnetic currents.",
 		"zh-Hans": "如果您的桌子是金属制或您的 iPhone 装有金属保护壳，扫瞄可能会受无线干扰影响。\\n在充电期间，扫瞄可能无法完成。",
 		"zh-Hant": "若您的桌子是金屬製或您的 iPhone 裝有金屬保護殼，掃瞄可能會受無線干擾影響。\\n在充電期間，掃瞄可能無法完成。",
-		"zh-HK": "若您的桌子是金屬製或您在 iPhone 上使用金屬保護殼，掃瞄可能會受無線干擾影響。\\n\在充電期間，掃瞄可能無法完成。"
+		"zh-HK": "若您的桌子是金屬製或您在 iPhone 上使用金屬保護殼，掃瞄可能會受無線干擾影響。\\n在充電期間，掃瞄可能無法完成。"
 	},
 
 	"使い方": {
@@ -43,7 +43,7 @@
 	"図のように対応カードの上に iPhone の上部を置き、「スキャン」ボタンをタップします。": {
 		"ja": "図のように対応カードの上に iPhone の上部を置き、「スキャン」ボタンをタップします。",
 		"en": "Rest the top of your iPhone on the compatible card as shown, and then tap Scan.",
-		"zh-Hans": "如图所示，将 iPhone 的顶部靠在卡上，然后轻点\\\“扫瞄\\\”。",
+		"zh-Hans": "如图所示，将 iPhone 的顶部靠在卡上，然后轻点\\“扫瞄\\”。",
 		"zh-Hant": "將 iPhone 頂端放在卡片（如上所示）上，然後點一下「掃瞄」。",
 		"zh-HK": "將 iPhone 頂端放在卡上（如上圖所示），然後點一下「掃瞄」。"
 	},
