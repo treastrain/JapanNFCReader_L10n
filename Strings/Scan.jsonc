@@ -108,7 +108,7 @@
 		"ja": "モバイルSuica/PASMO に転送済みのカードや有効期限が切れたカードでも残高が表示されますが、実際に使用することはできません。",
 		"en": "If the card has been transferred to Mobile Suica/PASMO or has expired, the history and balance up until that point will be displayed, but the card will remain unusable.",
 		"zh-Hans": "即使卡片已被转移成 Mobile Suica/Pasmo 或卡片已过期，余额仍然会显示，但卡片不能使用。",
-		"zh-Hant": "即使卡片已被轉移成 Mobile Suica/Pasmo 或卡片已過期，餘額仍然會顯示，但卡片不能使用。"
+		"zh-Hant": "即使卡片已被轉移成 Mobile Suica/Pasmo 或卡片已過期，餘額仍然會顯示，但卡片不能使用。",
 		"zh-HK": "即使卡片已被轉移成 Mobile Suica/Pasmo 或卡片已過期，餘額仍然會顯示，但卡片不能使用。"
 	},
 
