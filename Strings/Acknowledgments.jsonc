@@ -19,25 +19,25 @@
 	"交通系ICカードの駅名表示のほとんどは IC SFCard Fan にて公開されている情報を利用しています。作成に関わったすべての皆様に感謝いたします。本 App と IC SFCard Fan 作成・管理者様は一切関係ありません。": {
 		"ja": "交通系ICカードの駅名表示のほとんどは IC SFCard Fan にて公開されている情報を利用しています。作成に関わったすべての皆様に感謝いたします。本 App と IC SFCard Fan 作成・管理者様は一切関係ありません。",
 		"en": "Most of the station names read from the Transit IC cards are based on information available from IC SFCard Fan. I'd like to thank everyone involved in this effort. This app is in no way affiliated with IC SFCard Fan.",
-		"zh-Hans": "大部份从 IC 交通卡读取的车站站名是基于 IC SFCard Fan 所提供的资料。我感谢该计划的每个参与者所付出的努力。此应用程序与 IC SFCard Fan 没有任何联系。",
-		"zh-Hant": "大部份從 IC 交通卡讀取的車站站名是基於 IC SFCard Fan 所提供的資料。我感謝該計劃的每個參與者所付出的努力。此應用程式與 IC SFCard Fan 沒有任何聯繫。",
-		"zh-HK": "大部份從 IC 交通卡讀取的車站站名是基於 IC SFCard Fan 所提供的資料。我感謝該計劃的每個參與者所付出的努力。此應用程式與 IC SFCard Fan 沒有任何聯繫。"
+		"zh-Hans": "大部份从 IC 交通卡读取的车站站名是基于 IC SFCard Fan 所提供的资料。我感谢该计划的每个参与者所付出的努力。此 App 与 IC SFCard Fan 没有任何联系。",
+		"zh-Hant": "大部份從 IC 交通卡讀取的車站站名是基於 IC SFCard Fan 所提供的資料。我感謝該計劃的每個參與者所付出的努力。此 App 與 IC SFCard Fan 沒有任何聯繫。",
+		"zh-HK": "大部份從 IC 交通卡讀取的車站站名是基於 IC SFCard Fan 所提供的資料。我感謝該計劃的每個參與者所付出的努力。此 App 與 IC SFCard Fan 沒有任何聯繫。"
 	},
 
 	"本 App のコア部分は GitHub にて公開しています。": {
 		"ja": "本 App のコア部分は GitHub にて公開しています。",
 		"en": "The core library that powers this app is available to the public on GitHub.",
-		"zh-Hans": "此应用程式的核心部份在 GitHub 上向公众开放。",
-		"zh-Hant": "此應用程式的核心部份於 GitHub 上向公眾開放。",
-		"zh-HK": "此應用程式的核心部份在 GitHub 上向公眾開放。"
+		"zh-Hans": "此 App 的核心部份在 GitHub 上向公众开放。",
+		"zh-Hant": "此 App 的核心部份於 GitHub 上向公眾開放。",
+		"zh-HK": "此 App 的核心部份在 GitHub 上向公眾開放。"
 	},
 
 	"本 App のローカライズ（翻訳）はオープンソースコミュニティによって行われています。文言の修正や翻訳の追加などはこちらから提案することができます。": {
 		"ja": "本 App のローカライズ（翻訳）はオープンソースコミュニティによって行われています。文言の修正や翻訳の追加などはこちらから提案することができます。",
 		"en": "This app is localized (translated) by the open source community on GitHub. You can suggest corrections and additional translations here.",
-		"zh-Hans": "此应用程序由 GitHub 上的开源社群负责本地化（翻译）。您可以在此提出更正及建议其他译法。",
-		"zh-Hant": "此應用程式由 GitHub 上的開源社群負責本地化（翻譯）。您可以在此提出更正及建議其他譯法。",
-		"zh-HK": "此應用程式由 GitHub 上的開源社群負責本地化（翻譯）。您可以在此提出更正及建議其他譯法。"
+		"zh-Hans": "此 App 由 GitHub 上的开源社群负责本地化（翻译）。您可以在此提出更正及建议其他译法。",
+		"zh-Hant": "此 App 由 GitHub 上的開源社群負責本地化（翻譯）。您可以在此提出更正及建議其他譯法。",
+		"zh-HK": "此 App 由 GitHub 上的開源社群負責本地化（翻譯）。您可以在此提出更正及建議其他譯法。"
 	},
 
 	"翻訳に協力する": {
