@@ -51,6 +51,8 @@ for path in paths {
 print()
 if passedCount == paths.count {
     print("🎉", "All files have been checked.")
+    exit(0)
 } else {
     print("❌", "\(paths.count - passedCount) error(s) have occurred.")
+    exit(1)
 }
