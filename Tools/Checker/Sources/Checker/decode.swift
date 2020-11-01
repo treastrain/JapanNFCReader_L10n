@@ -7,11 +7,7 @@
 
 import Foundation
 
-func decode(from data: Data) -> [String : [String : String?]] {
+func decode(from data: Data) throws -> [String : [String : String?]] {
     let decoder = JSONDecoder()
-    do {
-        return try decoder.decode([String : [String : String?]].self, from: data)
-    } catch {
-        fatalError(error.localizedDescription)
-    }
+    return try decoder.decode([String : [String : String?]].self, from: data)
 }
