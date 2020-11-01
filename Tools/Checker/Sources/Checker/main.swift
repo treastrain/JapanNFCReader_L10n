@@ -10,4 +10,5 @@ func decode(from data: Data) -> [String : [String : String?]] {
 }
 
 let manager = FileManager()
+manager.changeCurrentDirectoryPath("../../Strings")
 print("Current directory path:", manager.currentDirectoryPath)
