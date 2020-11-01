@@ -1,0 +1,1 @@
+# JapanNFCReader_L10n JSON Checker

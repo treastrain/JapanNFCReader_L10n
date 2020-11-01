@@ -1,0 +1,17 @@
+name: JSON Checker
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: macOS-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Show Xcode version
+      run: xcodebuild -version
+    - name: Show Swift version
+      run: swift --version
+    - name: Run
+      run: swift run -v
