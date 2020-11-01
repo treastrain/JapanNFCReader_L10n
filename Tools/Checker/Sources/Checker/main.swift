@@ -1,9 +1,9 @@
 import Foundation
 
 
+print()
 let manager = FileManager()
 manager.changeCurrentDirectoryPath("../../Strings")
-print("Current directory path:", manager.currentDirectoryPath)
 
 let paths: [String]
 do {
